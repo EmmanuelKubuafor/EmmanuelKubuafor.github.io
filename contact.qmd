@@ -2,23 +2,22 @@
 title: "Contact"
 description-meta: "Reach out to me with questions and comments"
 title-block-banner: false
+page-layout: full
 ---
 
-<center>
+## 📬 Get in Touch
 
-**Quarto Academic**
+<div style="text-align: center; font-size: 1.1em;">
 
-School
+**Emmanuel Kubuafor**  
+M.S. Candidate in Statistics  
+Department of Mathematics and Statistics  
+University of New Mexico  
 
-College
+📍 Albuquerque, NM, USA  
+📧 [ekubuafor@unm.edu](mailto:ekubuafor@unm.edu)
+📧 [ekubuafor28@gmail.com](mailto:ekubuafor28@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/emmanuelkubuafor)  
+🔗 [GitHub](https://github.com/EmmanuelKubuafor)
 
-University
-
-Address: 
-
-Phone: 
-
-E-mail: 
-
-
-</center>
+</div>

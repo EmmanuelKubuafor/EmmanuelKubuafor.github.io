@@ -1,67 +1,118 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
+subtitle: "Courses I've taught and assisted with."
 title-block-banner: false
 ---
 
-
-## Class 1
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 1 introduction.
-
-:::
-
-:::
-
-
-## Class 2
+## College Algebra
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
-
+![](files/images/algebra.jpg)
 :::
 
 ::: {.g-col-12 .g-col-md-10}
+**University of New Mexico, Department of Mathematics and Statistics**  
+**Instructor**  
+[Summer 2025](#)
 
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 2 introduction.
-
+A foundational course in algebraic reasoning, equations, and functions. Delivered in-person to a diverse student population.
 :::
 
 :::
 
 
-## Class 3
+## Introduction to Statistics
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
-
+![](files/images/stat.jpg)
 :::
 
 ::: {.g-col-12 .g-col-md-10}
+**University of New Mexico, Department of Mathematics and Statistics**  
+**Instructor**  
+[Spring 2025](#)
 
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
-
-Class 3 introduction. 
-
+An undergraduate course covering data collection, exploratory data analysis, probability, and statistical inference using real-world applications.
 :::
 
 :::
 
 
+## Advanced Data Analysis I
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/ada1.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-10}
+**University of New Mexico, Department of Mathematics and Statistics**  
+**Teaching Assistant**  
+[Fall 2024](#)
+
+Graduate-level course introducing modern methods of data analysis including regression, resampling, and diagnostics.
+:::
+
+:::
+
+
+## Calculus I
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/calc.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-10}
+**University of New Mexico, Department of Mathematics and Statistics**  
+**Teaching Assistant**  
+[Spring 2024](#)
+
+Topics include limits, derivatives, applications, and an introduction to integrals.
+:::
+
+:::
+
+
+## Introduction to Biostatistics
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/biostat.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-10}
+**University of Ghana, Department of Actuarial Science and Statistics**  
+**Teaching Assistant**  
+[Summer 2023](#)
+
+Covered study design, categorical data anlysis,hypothesis testing and survival analysis.
+:::
+
+:::
+
+
+## Advanced Linear Regression
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/regression.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-10}
+**University of Ghana, Department of Actuarial Science and Statistics**  
+**Teaching Assistant**  
+[Spring 2023](#)
+
+Focused on theoretical and applied aspects of multiple regression, model diagnostics, and interaction effects.
+:::
+
+:::

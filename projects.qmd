@@ -1,33 +1,52 @@
 ---
 title: "Projects"
-subtitle: "Funded projects"
+subtitle: "Research Projects"
 page-layout: full
-listing: 
-- id: projects
-  sort: "started desc"
-  type: table
-  fields: [image, title, author, subtitle, description, funding, started, ended]
-  grid-item-align: left
-  grid-columns: 3
-  image-height: 30px
-  field-display-names: 
-      title: "Title"
-      author: "Team"
-      subtitle: "Funder"
-      started: "Start"
-      ended: "End"
-      funding: "Funding"
-#  categories: true
-#  sort-ui: true
-#  filter-ui: true
-  contents: 
-#    - projects/ 
-    - projects.yml 
 ---
 
+## Health & Epidemiology
 
-:::{#projects}
+::: {.g-col-12}
+[![](files/images/map.jpg)](https://ekubuafor28.shinyapps.io/Spatial/)  
+**[Spatiotemporal Patterns of Outbreak-Related Illnesses](https://ekubuafor28.shinyapps.io/Spatial/)**  
+Analyzed 50 years of U.S. outbreak data using Shiny dashboards and spatial statistics.
 :::
+
+::: {.g-col-12}
+[![](files/images/supplement.jpg)](https://drive.google.com/file/d/1nqpqJttV87_weyMlGs0Q4zTefEtT7Wbw/view?usp=sharing)  
+**[Bayesian Beta-Carotene Supplementation Study](https://drive.google.com/file/d/1nqpqJttV87_weyMlGs0Q4zTefEtT7Wbw/view?usp=sharing)**  
+Analyzed nutrient interactions using a Bayesian mixed model framework.
+:::
+
+::: {.g-col-12}
+[![](files/images/lung.jpg)](https://drive.google.com/file/d/1RFPNQ0ctz2Zea-7nzTEO_7yNASjlMVhE/view?usp=sharing)  
+**[Forecasting Lung Cancer Mortality](https://drive.google.com/file/d/1RFPNQ0ctz2Zea-7nzTEO_7yNASjlMVhE/view?usp=sharing)**  
+Compared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.
+:::
+
+::: {.g-col-12}
+[![](files/images/malaria.jpg)](https://drive.google.com/file/d/1p_RnayMAGJ64QkwlI8FEcoazQWlKNQvS/view?usp=sharing)  
+**[Malaria Trend Analysis in Comoros](https://drive.google.com/file/d/1p_RnayMAGJ64QkwlI8FEcoazQWlKNQvS/view?usp=sharing)**  
+Modeling seasonal spikes in malaria using ARIMA modeling to inform timely response.
+:::
+
+## Education & Society
+
+::: {.g-col-12}
+[![](files/images/teacher.jpg)](https://drive.google.com/file/d/1Sltcu5K1yMvTsYX4dPPzI80OVlVwu0IG/view?usp=sharing)  
+**[Global Student-Teacher Ratio Modeling](https://drive.google.com/file/d/1Sltcu5K1yMvTsYX4dPPzI80OVlVwu0IG/view?usp=sharing)**  
+Mixed-effects framework to study education-level class size disparities worldwide.
+:::
+
+## Environmental Modeling
+
+::: {.g-col-12}
+[![](files/images/weather.jpg)](https://drive.google.com/file/d/15vwHGg0QBm7NhgQBq60YrDvCSX6hhEgP/view?usp=sharing)  
+**[Ozone Concentration in Bernalillo, NM](https://drive.google.com/file/d/15vwHGg0QBm7NhgQBq60YrDvCSX6hhEgP/view?usp=sharing)**  
+Regression analysis of meteorological and seasonal ozone drivers in New Mexico.
+:::
+
+
 
 
 <!--Include social share buttons-->

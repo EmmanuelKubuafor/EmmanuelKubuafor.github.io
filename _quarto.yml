@@ -1,99 +1,90 @@
 project:
   type: website
   output-dir: docs
+  
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Academic website for Emmanuel Kubuafor, statistician and data scientist."
+author-meta: "Emmanuel Kubuafor"
 
 website:
   title: "Emmanuel Kubuafor"
-  image: "https://quarto.org/quarto.png"
-  description: "Personal Website"
- 
+  image: "files/images/Profile picture_Emmanuel_Kubuafor.jpg"
+  description: "Personal academic site for research, teaching, and projects"
+
   navbar:
-    background: light  # You can change the background color here
-
-    left:   # You can comment out all navigation items here if you just like to keep the index page only
-#      - text: Home
-#        href: index.qmd
-      - text: About
-        menu:
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event      
-          - text: Contact
-            href: contact.qmd             
-      - text: Research
-        menu:
-          - text: List of Publications
-            href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
-      - text: Teaching # Comment the Teaching part out to remove the Teaching page
+    background: light
+    
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research Projects
+        href: projects.qmd
+          # - text: News
+          #   href: posts.qmd#category=news
+          # - text: Events
+          #   href: posts.qmd#category=event
+      # - text: Research
+      #   menu:
+      #     - text: List of Publications
+      #       href: publications.qmd
+      #     - text: Selected Papers
+      #       href: posts.qmd#category=paper
+      - text: Teaching
         href: teaching.qmd
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
-      - text: Group   # Comment the Group part out to remove the Group page
-        href: people.qmd
+      - text: Contact
+        href: contact.qmd
+      # - text: Outreach
+      #   menu:
+      #     - text: Presentations
+      #       href: posts.qmd#category=presentation
+      # - text: Group
+      #   href: people.qmd
 
-    right: 
+    right:
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: files/New_CV (1).pdf
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/EmmanuelKubuafor
         target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank      
-      - icon: rss
-        href: posts.xml
+      - icon: file-text
+        text: Rpubs
+        href: https://rpubs.com/Emmanuel_Kubuafor
         target: _blank
-  
+
   page-navigation: true
-  
-  page-footer: 
-    left: "[Emmanuel Kubuafor](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
-    right:  
+
+  page-footer:
+    left: "[Emmanuel Kubuafor](https://github.com/EmmanuelKubuafor) &copy; <script>document.write(new Date().getFullYear())</script>"
+    center: "Built with [Quarto](https://quarto.org) • Adapted from [Dr. Gang He](http://drganghe.github.io)'s template"
+    right:
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/EmmanuelKubuafor
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
+      - icon: file-text
+        text: Rpubs
+        href: https://rpubs.com/Emmanuel_Kubuafor
         target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
-  
+
   search:
     location: navbar
     type: textbox
-  
+
   reader-mode: true
-
   draft-mode: unlinked
-  
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
-#  repo-actions: [edit, issue, source]
-  
-  open-graph: true
-  
-  twitter-card: true 
-#  card-style: summary      
-  
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
-  
-  google-analytics:
-    tracking-id: ""  # Please delete or replace with your own tracking ID
-    anonymize-ip: true 
 
-bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
+  repo-url: https://github.com/EmmanuelKubuafor/EmmanuelKubuafor.github.io
+
+  open-graph: true
+  twitter-card: true
+
+  site-url: "https://EmmanuelKubuafor.github.io"
+
+#   google-analytics:
+#     tracking-id: ""  # Add your own ID if needed
+#     anonymize-ip: true
+# 
+# bibliography: references.bib
 
 format:
   html:
@@ -108,6 +99,4 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     email-obfuscation: javascript
-    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
     include-in-header: "files/includes/_academic.qmd"
-

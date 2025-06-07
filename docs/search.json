@@ -25,7 +25,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Spatiotemporal Patterns of Outbreak-Related Illnesses\nAnalyzed 50 years of U.S. outbreak data using Shiny dashboards and spatial statistics.\n\n\n\nBayesian Beta-Carotene Supplementation Study\nAnalyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n\nForecasting Lung Cancer Mortality\nCompared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n\nMalaria Trend Analysis in Comoros\nModeling seasonal spikes in malaria using ARIMA modeling to inform timely response."
   },
   {
     "objectID": "posts/news-title/index.html",
@@ -60,7 +60,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "University of New Mexico, Department of Mathematics and Statistics\nInstructor\nSummer 2025\nA foundational course in algebraic reasoning, equations, and functions. Delivered in-person to a diverse student population."
   },
   {
     "objectID": "teaching.html#class-1",
@@ -88,28 +88,28 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+    "text": "Emmanuel Kubuafor\nM.S. Candidate in Statistics\nDepartment of Mathematics and Statistics\nUniversity of New Mexico\n📍 Albuquerque, NM, USA\n📧 ekubuafor at unm dot edu 📧 ekubuafor28 at gmail dot com 🔗 LinkedIn\n🔗 GitHub"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "title": "Emmanuel Kubuafor, Statistician",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository to bookmark it for future reference.\n\nFork this repository and rename it to YourGitHubUserName.github.io.\n\nUpdate the _quarto.yml file to configure your site’s basic settings.\n\nAdd or edit content in the following files and folders:\n\n/posts/ – posts about publications, news, events\n\nteaching.qmd – teaching information\n\nprojects.yml – research or other projects\n\npeople.qmd and /people/ – team or collaborators\n\n/files/ - profiles, images, pdfs, and includes\n\nRender and preview your site locally.\n\nPublish your site using GitHub Pages.\n\nRefine and polish your content and design as needed.\n\n✅ Enjoy your new website!\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
+    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     RPubs\n  \n\n  \n  \nI’m Emmanuel Kubuafor — a statistician and educator with research interests in spatial epidemiology, data science, and Bayesian methods.\nThis website shares my research, teaching, and ongoing data projects."
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "Researcher, Univerisity"
+    "title": "Emmanuel Kubuafor, Statistician",
+    "section": "Experience",
+    "text": "Experience\n\nResearch Assistant, University of New Mexico\nProject Assistant, African American Student Services-UNM"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "PhD, Univerisity"
+    "title": "Emmanuel Kubuafor, Statistician",
+    "section": "Education",
+    "text": "Education\n\nM.S. in Statistics, University of New Mexico (2024-Present)\nB.S. in Mathematics, University of Ghana (2018-2022)"
   },
   {
     "objectID": "index.html#recent-posts",
@@ -138,5 +138,89 @@
     "title": "People",
     "section": "Alumni",
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html#introduction-to-statistics",
+    "href": "teaching.html#introduction-to-statistics",
+    "title": "Teaching",
+    "section": "Introduction to Statistics",
+    "text": "Introduction to Statistics\n\n\n\n\n\nUniversity of New Mexico, Department of Mathematics and Statistics\nInstructor\nSpring 2025\nAn undergraduate course covering data collection, exploratory data analysis, probability, and statistical inference using real-world applications."
+  },
+  {
+    "objectID": "teaching.html#college-algebra",
+    "href": "teaching.html#college-algebra",
+    "title": "Teaching",
+    "section": "",
+    "text": "University of New Mexico, Department of Mathematics and Statistics\nInstructor\nSummer 2025\nA foundational course in algebraic reasoning, equations, and functions. Delivered in-person to a diverse student population."
+  },
+  {
+    "objectID": "teaching.html#advanced-data-analysis-i",
+    "href": "teaching.html#advanced-data-analysis-i",
+    "title": "Teaching",
+    "section": "Advanced Data Analysis I",
+    "text": "Advanced Data Analysis I\n\n\n\n\n\nUniversity of New Mexico, Department of Mathematics and Statistics\nTeaching Assistant\nFall 2024\nGraduate-level course introducing modern methods of data analysis including regression, resampling, and diagnostics."
+  },
+  {
+    "objectID": "teaching.html#calculus-i",
+    "href": "teaching.html#calculus-i",
+    "title": "Teaching",
+    "section": "Calculus I",
+    "text": "Calculus I\n\n\n\n\n\nUniversity of New Mexico, Department of Mathematics and Statistics\nTeaching Assistant\nSpring 2024\nTopics include limits, derivatives, applications, and an introduction to integrals."
+  },
+  {
+    "objectID": "teaching.html#advanced-linear-regression",
+    "href": "teaching.html#advanced-linear-regression",
+    "title": "Teaching",
+    "section": "Advanced Linear Regression",
+    "text": "Advanced Linear Regression\n\n\n\n\n\nUniversity of Ghana, Department of Actuarial Science and Statistics\nTeaching Assistant\nSpring 2023\nFocused on theoretical and applied aspects of multiple regression, model diagnostics, and interaction effects."
+  },
+  {
+    "objectID": "teaching.html#introduction-to-biostatistics",
+    "href": "teaching.html#introduction-to-biostatistics",
+    "title": "Teaching",
+    "section": "Introduction to Biostatistics",
+    "text": "Introduction to Biostatistics\n\n\n\n\n\nUniversity of Ghana, Department of Actuarial Science and Statistics\nTeaching Assistant\nSummer 2023\nCovered study design, categorical data anlysis,hypothesis testing and survival analysis."
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "Emmanuel Kubuafor\nM.S. Candidate in Statistics\nDepartment of Mathematics and Statistics\nUniversity of New Mexico\n📍 Albuquerque, NM, USA\n📧 ekubuafor at unm dot edu 📧 ekubuafor28 at gmail dot com 🔗 LinkedIn\n🔗 GitHub"
+  },
+  {
+    "objectID": "projects.html#my-research-projects",
+    "href": "projects.html#my-research-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "These are selected projects with interactive reports and analyses."
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Spatiotemporal Patterns of Outbreak-Related Illnesses\nAnalyzed 50 years of U.S. outbreak data using Shiny dashboards and spatial statistics.\n\n\n\nBayesian Beta-Carotene Supplementation Study\nAnalyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n\nForecasting Lung Cancer Mortality\nCompared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n\nMalaria Trend Analysis in Comoros\nModeling seasonal spikes in malaria using ARIMA modeling to inform timely response.\n\n\n\nGlobal Student-Teacher Ratio Modeling\nMixed-effects framework to study education-level class size disparities worldwide.\n\n\n\nOzone Concentration in Bernalillo, NM\nRegression analysis of meteorological and seasonal ozone drivers in New Mexico."
+  },
+  {
+    "objectID": "projects.html#health-epidemiology",
+    "href": "projects.html#health-epidemiology",
+    "title": "Projects",
+    "section": "",
+    "text": "Spatiotemporal Patterns of Outbreak-Related Illnesses\nAnalyzed 50 years of U.S. outbreak data using Shiny dashboards and spatial statistics.\n\n\n\nBayesian Beta-Carotene Supplementation Study\nAnalyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n\nForecasting Lung Cancer Mortality\nCompared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n\nMalaria Trend Analysis in Comoros\nModeling seasonal spikes in malaria using ARIMA modeling to inform timely response."
+  },
+  {
+    "objectID": "projects.html#education-society",
+    "href": "projects.html#education-society",
+    "title": "Projects",
+    "section": "Education & Society",
+    "text": "Education & Society\n\n\nGlobal Student-Teacher Ratio Modeling\nMixed-effects framework to study education-level class size disparities worldwide."
+  },
+  {
+    "objectID": "projects.html#environmental-modeling",
+    "href": "projects.html#environmental-modeling",
+    "title": "Projects",
+    "section": "Environmental Modeling",
+    "text": "Environmental Modeling\n\n\nOzone Concentration in Bernalillo, NM\nRegression analysis of meteorological and seasonal ozone drivers in New Mexico."
   }
 ]
