@@ -1,24 +1,52 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s New & Updated",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "University of New Mexico, Department of Mathematics and Statistics\nInstructor\nSummer 2025\nA foundational course in algebraic reasoning, equations, and functions. Delivered in-person to a diverse student population."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "teaching.html#college-algebra",
+    "href": "teaching.html#college-algebra",
+    "title": "Teaching",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "University of New Mexico, Department of Mathematics and Statistics\nInstructor\nSummer 2025\nA foundational course in algebraic reasoning, equations, and functions. Delivered in-person to a diverse student population."
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "objectID": "teaching.html#introduction-to-statistics",
+    "href": "teaching.html#introduction-to-statistics",
+    "title": "Teaching",
+    "section": "Introduction to Statistics",
+    "text": "Introduction to Statistics\n\n\n\n\n\nUniversity of New Mexico, Department of Mathematics and Statistics\nInstructor\nSpring 2025\nAn undergraduate course covering data collection, exploratory data analysis, probability, and statistical inference using real-world applications."
+  },
+  {
+    "objectID": "teaching.html#advanced-data-analysis-i",
+    "href": "teaching.html#advanced-data-analysis-i",
+    "title": "Teaching",
+    "section": "Advanced Data Analysis I",
+    "text": "Advanced Data Analysis I\n\n\n\n\n\nUniversity of New Mexico, Department of Mathematics and Statistics\nTeaching Assistant\nFall 2024\nGraduate-level course introducing modern methods of data analysis including regression, resampling, and diagnostics."
+  },
+  {
+    "objectID": "teaching.html#calculus-i",
+    "href": "teaching.html#calculus-i",
+    "title": "Teaching",
+    "section": "Calculus I",
+    "text": "Calculus I\n\n\n\n\n\nUniversity of New Mexico, Department of Mathematics and Statistics\nTeaching Assistant\nSpring 2024\nTopics include limits, derivatives, applications, and an introduction to integrals."
+  },
+  {
+    "objectID": "teaching.html#introduction-to-biostatistics",
+    "href": "teaching.html#introduction-to-biostatistics",
+    "title": "Teaching",
+    "section": "Introduction to Biostatistics",
+    "text": "Introduction to Biostatistics\n\n\n\n\n\nUniversity of Ghana, Department of Actuarial Science and Statistics\nTeaching Assistant\nSummer 2023\nCovered study design, categorical data anlysis,hypothesis testing and survival analysis."
+  },
+  {
+    "objectID": "teaching.html#advanced-linear-regression",
+    "href": "teaching.html#advanced-linear-regression",
+    "title": "Teaching",
+    "section": "Advanced Linear Regression",
+    "text": "Advanced Linear Regression\n\n\n\n\n\nUniversity of Ghana, Department of Actuarial Science and Statistics\nTeaching Assistant\nSpring 2023\nFocused on theoretical and applied aspects of multiple regression, model diagnostics, and interaction effects."
   },
   {
     "objectID": "projects.html",
@@ -28,18 +56,25 @@
     "text": "Spatiotemporal Patterns of Outbreak-Related Illnesses\nAnalyzed 50 years of U.S. outbreak data using Shiny dashboards and spatial statistics.\n\n\n\nBayesian Beta-Carotene Supplementation Study\nAnalyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n\nForecasting Lung Cancer Mortality\nCompared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n\nMalaria Trend Analysis in Comoros\nModeling seasonal spikes in malaria using ARIMA modeling to inform timely response."
   },
   {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
+    "objectID": "projects.html#health-epidemiology",
+    "href": "projects.html#health-epidemiology",
+    "title": "Projects",
     "section": "",
-    "text": "About the news"
+    "text": "Spatiotemporal Patterns of Outbreak-Related Illnesses\nAnalyzed 50 years of U.S. outbreak data using Shiny dashboards and spatial statistics.\n\n\n\nBayesian Beta-Carotene Supplementation Study\nAnalyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n\nForecasting Lung Cancer Mortality\nCompared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n\nMalaria Trend Analysis in Comoros\nModeling seasonal spikes in malaria using ARIMA modeling to inform timely response."
   },
   {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
+    "objectID": "projects.html#education-society",
+    "href": "projects.html#education-society",
+    "title": "Projects",
+    "section": "Education & Society",
+    "text": "Education & Society\n\n\nGlobal Student-Teacher Ratio Modeling\nMixed-effects framework to study education-level class size disparities worldwide."
+  },
+  {
+    "objectID": "projects.html#environmental-modeling",
+    "href": "projects.html#environmental-modeling",
+    "title": "Projects",
+    "section": "Environmental Modeling",
+    "text": "Environmental Modeling\n\n\nOzone Concentration in Bernalillo, NM\nRegression analysis of meteorological and seasonal ozone drivers in New Mexico."
   },
   {
     "objectID": "posts/paper-title/index.html#abstract",
@@ -54,41 +89,6 @@
     "title": "Can quantum-mechanical description of physical reality be considered complete?",
     "section": "Links",
     "text": "Links\nPublished paper"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "University of New Mexico, Department of Mathematics and Statistics\nInstructor\nSummer 2025\nA foundational course in algebraic reasoning, equations, and functions. Delivered in-person to a diverse student population."
-  },
-  {
-    "objectID": "teaching.html#class-1",
-    "href": "teaching.html#class-1",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-2",
-    "href": "teaching.html#class-2",
-    "title": "Teaching",
-    "section": "Class 2",
-    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-3",
-    "href": "teaching.html#class-3",
-    "title": "Teaching",
-    "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Emmanuel Kubuafor\nM.S. Candidate in Statistics\nDepartment of Mathematics and Statistics\nUniversity of New Mexico\n📍 Albuquerque, NM, USA\n📧 ekubuafor at unm dot edu 📧 ekubuafor28 at gmail dot com 🔗 LinkedIn\n🔗 GitHub"
   },
   {
     "objectID": "index.html",
@@ -112,74 +112,11 @@
     "text": "Education\n\nM.S. in Statistics, University of New Mexico (2024-Present)\nB.S. in Mathematics, University of Ghana (2018-2022)"
   },
   {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "teaching.html#introduction-to-statistics",
-    "href": "teaching.html#introduction-to-statistics",
-    "title": "Teaching",
-    "section": "Introduction to Statistics",
-    "text": "Introduction to Statistics\n\n\n\n\n\nUniversity of New Mexico, Department of Mathematics and Statistics\nInstructor\nSpring 2025\nAn undergraduate course covering data collection, exploratory data analysis, probability, and statistical inference using real-world applications."
-  },
-  {
-    "objectID": "teaching.html#college-algebra",
-    "href": "teaching.html#college-algebra",
-    "title": "Teaching",
-    "section": "",
-    "text": "University of New Mexico, Department of Mathematics and Statistics\nInstructor\nSummer 2025\nA foundational course in algebraic reasoning, equations, and functions. Delivered in-person to a diverse student population."
-  },
-  {
-    "objectID": "teaching.html#advanced-data-analysis-i",
-    "href": "teaching.html#advanced-data-analysis-i",
-    "title": "Teaching",
-    "section": "Advanced Data Analysis I",
-    "text": "Advanced Data Analysis I\n\n\n\n\n\nUniversity of New Mexico, Department of Mathematics and Statistics\nTeaching Assistant\nFall 2024\nGraduate-level course introducing modern methods of data analysis including regression, resampling, and diagnostics."
-  },
-  {
-    "objectID": "teaching.html#calculus-i",
-    "href": "teaching.html#calculus-i",
-    "title": "Teaching",
-    "section": "Calculus I",
-    "text": "Calculus I\n\n\n\n\n\nUniversity of New Mexico, Department of Mathematics and Statistics\nTeaching Assistant\nSpring 2024\nTopics include limits, derivatives, applications, and an introduction to integrals."
-  },
-  {
-    "objectID": "teaching.html#advanced-linear-regression",
-    "href": "teaching.html#advanced-linear-regression",
-    "title": "Teaching",
-    "section": "Advanced Linear Regression",
-    "text": "Advanced Linear Regression\n\n\n\n\n\nUniversity of Ghana, Department of Actuarial Science and Statistics\nTeaching Assistant\nSpring 2023\nFocused on theoretical and applied aspects of multiple regression, model diagnostics, and interaction effects."
-  },
-  {
-    "objectID": "teaching.html#introduction-to-biostatistics",
-    "href": "teaching.html#introduction-to-biostatistics",
-    "title": "Teaching",
-    "section": "Introduction to Biostatistics",
-    "text": "Introduction to Biostatistics\n\n\n\n\n\nUniversity of Ghana, Department of Actuarial Science and Statistics\nTeaching Assistant\nSummer 2023\nCovered study design, categorical data anlysis,hypothesis testing and survival analysis."
+    "text": "Emmanuel Kubuafor\nM.S. Candidate in Statistics\nDepartment of Mathematics and Statistics\nUniversity of New Mexico\n📍 Albuquerque, NM, USA\n📧 ekubuafor at unm dot edu 📧 ekubuafor28 at gmail dot com 🔗 LinkedIn\n🔗 GitHub"
   },
   {
     "objectID": "contact.html#get-in-touch",
@@ -189,38 +126,52 @@
     "text": "Emmanuel Kubuafor\nM.S. Candidate in Statistics\nDepartment of Mathematics and Statistics\nUniversity of New Mexico\n📍 Albuquerque, NM, USA\n📧 ekubuafor at unm dot edu 📧 ekubuafor28 at gmail dot com 🔗 LinkedIn\n🔗 GitHub"
   },
   {
-    "objectID": "projects.html#my-research-projects",
-    "href": "projects.html#my-research-projects",
-    "title": "Projects",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
     "section": "",
-    "text": "These are selected projects with interactive reports and analyses."
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects.html#featured-projects",
-    "href": "projects.html#featured-projects",
-    "title": "Projects",
+    "objectID": "people.html#team",
+    "href": "people.html#team",
+    "title": "People",
     "section": "",
-    "text": "Spatiotemporal Patterns of Outbreak-Related Illnesses\nAnalyzed 50 years of U.S. outbreak data using Shiny dashboards and spatial statistics.\n\n\n\nBayesian Beta-Carotene Supplementation Study\nAnalyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n\nForecasting Lung Cancer Mortality\nCompared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n\nMalaria Trend Analysis in Comoros\nModeling seasonal spikes in malaria using ARIMA modeling to inform timely response.\n\n\n\nGlobal Student-Teacher Ratio Modeling\nMixed-effects framework to study education-level class size disparities worldwide.\n\n\n\nOzone Concentration in Bernalillo, NM\nRegression analysis of meteorological and seasonal ozone drivers in New Mexico."
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects.html#health-epidemiology",
-    "href": "projects.html#health-epidemiology",
-    "title": "Projects",
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n        \n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "News item",
     "section": "",
-    "text": "Spatiotemporal Patterns of Outbreak-Related Illnesses\nAnalyzed 50 years of U.S. outbreak data using Shiny dashboards and spatial statistics.\n\n\n\nBayesian Beta-Carotene Supplementation Study\nAnalyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n\nForecasting Lung Cancer Mortality\nCompared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n\nMalaria Trend Analysis in Comoros\nModeling seasonal spikes in malaria using ARIMA modeling to inform timely response."
+    "text": "About the news"
   },
   {
-    "objectID": "projects.html#education-society",
-    "href": "projects.html#education-society",
-    "title": "Projects",
-    "section": "Education & Society",
-    "text": "Education & Society\n\n\nGlobal Student-Teacher Ratio Modeling\nMixed-effects framework to study education-level class size disparities worldwide."
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
   },
   {
-    "objectID": "projects.html#environmental-modeling",
-    "href": "projects.html#environmental-modeling",
-    "title": "Projects",
-    "section": "Environmental Modeling",
-    "text": "Environmental Modeling\n\n\nOzone Concentration in Bernalillo, NM\nRegression analysis of meteorological and seasonal ozone drivers in New Mexico."
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+  },
+  {
+    "objectID": "publications.html#selected-work",
+    "href": "publications.html#selected-work",
+    "title": "Publications",
+    "section": "Selected Work",
+    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
   }
 ]
