@@ -32,6 +32,8 @@ website:
       #       href: posts.qmd#category=paper
       - text: Teaching
         href: teaching.qmd
+      - text: Awards & Honors
+        href: Awards.qmd
       - text: Contact
         href: contact.qmd
       # - text: Outreach

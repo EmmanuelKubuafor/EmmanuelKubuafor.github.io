@@ -16,7 +16,7 @@ about:
       href: mailto:ekubuafor@unm.edu
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/emmanuel-kubuafor-93b355263
+      href: https://www.linkedin.com/in/emmanuel-kubuafor-gstat-93b355263/
     - icon: github
       text: GitHub
       href: https://github.com/EmmanuelKubuafor
@@ -79,4 +79,4 @@ This website shares my research, teaching, and ongoing data projects.
 ## Education
 
 -   M.S. in Statistics, University of New Mexico (2024-Present)
--   B.S. in Mathematics, University of Ghana (2018-2022)
+-   B.S. in Mathematical Science, University of Ghana (2018-2022)

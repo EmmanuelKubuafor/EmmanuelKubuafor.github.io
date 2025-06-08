@@ -109,7 +109,7 @@
     "href": "index.html#education",
     "title": "Emmanuel Kubuafor, Statistician",
     "section": "Education",
-    "text": "Education\n\nM.S. in Statistics, University of New Mexico (2024-Present)\nB.S. in Mathematics, University of Ghana (2018-2022)"
+    "text": "Education\n\nM.S. in Statistics, University of New Mexico (2024-Present)\nB.S. in Mathematical Science, University of Ghana (2018-2022)"
   },
   {
     "objectID": "contact.html",
@@ -173,5 +173,47 @@
     "title": "Publications",
     "section": "Selected Work",
     "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+  },
+  {
+    "objectID": "Awards.html",
+    "href": "Awards.html",
+    "title": "Awards & Honors",
+    "section": "",
+    "text": "ASA Lester R. Curtin Award\nAmerican Statistical Association — Recognized for the potential to enhance health statistics through ML-powered anomaly detection in EHR streams, enabling earlier outbreak response.\nASA SSPA Conference Grant\nASA Section for Statistical Programmers and Analysts — Received conference travel grant for 2025 JSM.\nJSM Early Career Travel Award\nAwarded funds to attend the 2025 Joint Statistical Meetings in Nashville, TN.\nGolden Key International Honour Society\nRecognized for placement in top 15% of UNM graduates based on academic excellence and leadership.\nUNM Student Research Grant Award\nFunded travel to participate in the ENAR Spring Meeting 2025 to advance biostatistical training."
+  },
+  {
+    "objectID": "Awards.html#section",
+    "href": "Awards.html#section",
+    "title": "Awards & Honors",
+    "section": "",
+    "text": "ASA Lester R. Curtin Award\nAmerican Statistical Association — Recognized for the potential to enhance health statistics through ML-powered anomaly detection in EHR streams, enabling earlier outbreak response.\nASA SSPA Conference Grant\nASA Section for Statistical Programmers and Analysts — Received conference travel grant for 2025 JSM.\nJSM Early Career Travel Award\nAwarded funds to attend the 2025 Joint Statistical Meetings in Nashville, TN.\nGolden Key International Honour Society\nRecognized for placement in top 15% of UNM graduates based on academic excellence and leadership.\nUNM Student Research Grant Award\nFunded travel to participate in the ENAR Spring Meeting 2025 to advance biostatistical training."
+  },
+  {
+    "objectID": "Awards.html#section-1",
+    "href": "Awards.html#section-1",
+    "title": "Awards & Honors",
+    "section": "2024",
+    "text": "2024\n\nUNM Graduate Teaching Scholar\nRecognized for excellence in pedagogical research and implementation of evidence-based teaching practices at UNM.\nProject for New Mexico Graduates of Color Scholarship\nHonored for transformative mentorship: Trained 2 peer mentors, hosted 4 grad-prep workshops, and advised STEM students."
+  },
+  {
+    "objectID": "Awards.html#section-2",
+    "href": "Awards.html#section-2",
+    "title": "Awards & Honors",
+    "section": "2023",
+    "text": "2023\n\nBest Teaching Assistant Award\nDepartment of Statistics & Actuarial Science, University of Ghana — Selected as top-performing TA out of 20+ departmental TAs."
+  },
+  {
+    "objectID": "Awards.html#section-3",
+    "href": "Awards.html#section-3",
+    "title": "Awards & Honors",
+    "section": "2022",
+    "text": "2022\n\nCertification of Honor\nUniversity of Ghana Actuarial and Statistics Society — Honored for tremendous service and commitment through 2 years of transformative leadership as Academic Committee President.\nMost Hardworking Executive Award\nUniversity of Ghana Actuarial and Statistics Society — For creating the society’s first peer-tutoring program and professional development workshop series with industry partners."
+  },
+  {
+    "objectID": "Awards.html#section-4",
+    "href": "Awards.html#section-4",
+    "title": "Awards & Honors",
+    "section": "2020",
+    "text": "2020\n\nDean’s Honor Award for Academic Excellence\nUniversity of Ghana — Awarded by the College of Basic and Applied Sciences for outstanding scholarly achievement (top 3%)."
   }
 ]

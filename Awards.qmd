@@ -1,0 +1,68 @@
+---
+title: "Awards & Honors"
+subtitle: "Recognitions, Scholarships, and Distinctions"
+title-block-banner: false
+page-layout: full
+---
+
+
+## 2025
+
+- **ASA Lester R. Curtin Award**  
+  *American Statistical Association* — Recognized for the potential to enhance health statistics through ML-powered anomaly detection in EHR streams, enabling earlier outbreak response.
+
+- **ASA SSPA Conference Grant**  
+  *ASA Section for Statistical Programmers and Analysts* — Received  conference travel grant for 2025     JSM.
+
+- **JSM Early Career Travel Award**  
+  Awarded funds to attend the 2025 Joint Statistical Meetings in Nashville, TN.
+
+- **Golden Key International Honour Society**  
+  Recognized for placement in top 15% of UNM graduates based on academic excellence and leadership.
+
+
+- **UNM Student Research Grant Award**  
+  Funded travel to participate in the ENAR Spring Meeting 2025 to advance biostatistical training.
+
+
+## 2024
+
+- **UNM Graduate Teaching Scholar**  
+  Recognized for excellence in pedagogical research and implementation of evidence-based teaching practices at UNM.
+
+
+
+- **Project for New Mexico Graduates of Color Scholarship**  
+  Honored for transformative mentorship: Trained 2 peer mentors, hosted 4 grad-prep workshops, and advised STEM students.
+
+
+## 2023
+
+- **Best Teaching Assistant Award**  
+  *Department of Statistics & Actuarial Science, University of Ghana* — Selected as top-performing TA out of 20+ departmental TAs.
+
+
+## 2022
+
+- **Certification of Honor**  
+  *University of Ghana Actuarial and Statistics Society* — Honored for tremendous service and commitment through 2 years of transformative leadership as Academic Committee President.
+
+- **Most Hardworking Executive Award**  
+  *University of Ghana Actuarial and Statistics Society* — For creating the society’s first peer-tutoring program and professional development workshop series with industry partners.
+
+
+
+
+## 2020
+
+- **Dean’s Honor Award for Academic Excellence**  
+  *University of Ghana* — Awarded by the College of Basic and Applied Sciences for outstanding scholarly achievement (top 3%).
+
+
+
+
+
+
+
+
+<!-- Additional entries can be added below following the same format -->
