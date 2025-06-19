@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel Kubuafor, Statistician"
 description-meta: "Academic website for Emmanuel Kubuafor, specializing in statistical modeling and data science."
-image: "files/images/PIC2.jpg"  # Optional: Add your image
+image: "files/images/pic3.png"  # Optional: Add your image
 page-navigation: false
 toc: false
 #sidebar: false
