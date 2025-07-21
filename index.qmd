@@ -1,5 +1,5 @@
 ---
-title: "Emmanuel Kubuafor, Statistician"
+title: "Emmanuel Kubuafor, [Gstat](https://ww2.amstat.org/accreditation/roster.cfm)"
 description-meta: "Academic website for Emmanuel Kubuafor, specializing in statistical modeling and data science."
 image: "files/images/pic3.png"  # Optional: Add your image
 page-navigation: false
@@ -17,9 +17,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/emmanuel-kubuafor-gstat-93b355263/
-    - icon: github
-      text: GitHub
-      href: https://github.com/EmmanuelKubuafor
+    # - icon: github
+    #   text: GitHub
+    #   href: https://github.com/EmmanuelKubuafor
     - icon: file-text
       text: RPubs
       href: https://rpubs.com/Emmanuel_Kubuafor
@@ -65,18 +65,25 @@ about:
      # - "title asc"
 ---
 
-::: {#hero-heading}
-I'm Emmanuel Kubuafor — a statistician and educator with research interests in spatial epidemiology, data science, and Bayesian methods.
 
-This website shares my research, teaching, and ongoing data projects.
+## **About**
+
+::: {.about}
+
+I am a graduate statistician with experience in spatial analysis, survival models, and systematic reviews. I am currently pursuing an M.S. in Statistics at the [University of New Mexico](https://www.unm.edu), and I hold a B.Sc. in Mathematical Science from the [University of Ghana](https://www.ug.edu.gh).
+
+My work focuses on applying statistical methods to public health challenges, with interests in applied methodology, population health, and data-informed policy. I value clear communication, rigorous analysis, and collaborative problem-solving.
+
 :::
 
-## Experience
 
--   Research Assistant, University of New Mexico
--   Project Assistant, African American Student Services-UNM
 
-## Education
+<!-- ## Experience -->
 
--   M.S. in Statistics, University of New Mexico (2024-Present)
--   B.S. in Mathematical Science, University of Ghana (2018-2022)
+<!-- -   Research Assistant, University of New Mexico -->
+<!-- -   Project Assistant, African American Student Services-UNM -->
+
+<!-- ## Education -->
+
+<!-- -   M.S. in Statistics, University of New Mexico (2024-Present) -->
+<!-- -   B.S. in Mathematical Science, University of Ghana (2018-2022) -->

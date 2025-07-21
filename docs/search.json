@@ -93,9 +93,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Emmanuel Kubuafor, Statistician",
+    "title": "Emmanuel Kubuafor, Gstat",
     "section": "",
-    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     RPubs\n  \n\n  \n  \nI’m Emmanuel Kubuafor — a statistician and educator with research interests in spatial epidemiology, data science, and Bayesian methods.\nThis website shares my research, teaching, and ongoing data projects."
+    "text": "I am a graduate statistician with experience in spatial analysis, survival models, and systematic reviews. I am currently pursuing an M.S. in Statistics at the University of New Mexico, and I hold a B.Sc. in Mathematical Science from the University of Ghana.\nMy work focuses on applying statistical methods to public health challenges, with interests in applied methodology, population health, and data-informed policy. I value clear communication, rigorous analysis, and collaborative problem-solving."
   },
   {
     "objectID": "index.html#experience",
@@ -215,5 +215,12 @@
     "title": "Awards & Honors",
     "section": "2020",
     "text": "2020\n\nDean’s Honor Award for Academic Excellence\nUniversity of Ghana — Awarded by the College of Basic and Applied Sciences for outstanding scholarly achievement (top 3%)."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Emmanuel Kubuafor, Gstat",
+    "section": "",
+    "text": "I am a graduate statistician with experience in spatial analysis, survival models, and systematic reviews. I am currently pursuing an M.S. in Statistics at the University of New Mexico, and I hold a B.Sc. in Mathematical Science from the University of Ghana.\nMy work focuses on applying statistical methods to public health challenges, with interests in applied methodology, population health, and data-informed policy. I value clear communication, rigorous analysis, and collaborative problem-solving."
   }
 ]

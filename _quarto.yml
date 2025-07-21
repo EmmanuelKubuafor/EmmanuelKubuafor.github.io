@@ -8,15 +8,15 @@ description-meta: "Academic website for Emmanuel Kubuafor, statistician and data
 author-meta: "Emmanuel Kubuafor"
 
 website:
-  title: "Emmanuel Kubuafor"
+  title: ""
   image: "files/images/Profile picture_Emmanuel_Kubuafor.jpg"
   description: "Personal academic site for research, teaching, and projects"
 
   navbar:
-    background: light
+    background: brown
     
     left:
-      - text: Home
+      - text: Emmanuel Kubuafor
         href: index.qmd
       - text: Research Projects
         href: projects.qmd
@@ -50,9 +50,9 @@ website:
         href: https://github.com/EmmanuelKubuafor
         target: _blank
       - icon: file-text
-        text: Rpubs
-        href: https://rpubs.com/Emmanuel_Kubuafor
-        target: _blank
+        # text: Rpubs
+        # href: https://rpubs.com/Emmanuel_Kubuafor
+        # target: _blank
 
   page-navigation: true
 
