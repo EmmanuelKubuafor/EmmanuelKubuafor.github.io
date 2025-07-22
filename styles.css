@@ -41,4 +41,20 @@
   padding: 0.5rem 1rem 1rem 1rem;
   text-align: center;
 }
+/* Make table of contents text brown */
+#TOC, .toc, .tocify {
+  color: brown;
+}
+
+/* Make ToC links brown */
+#TOC a, .toc a, .tocify a {
+  color: brown;
+}
+
+/* Optional: Make active/highlighted TOC section bold and brown */
+#TOC a.active,
+.tocify .tocify-focus {
+  color: brown !important;
+  font-weight: bold;
+}
 
