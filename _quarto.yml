@@ -45,7 +45,8 @@ website:
 
     right:
       - text: CV
-        href: files/New_CV (1).pdf
+        href: files/cv_Emmanuel.pdf
+        target: _blank
       - icon: github
         href: https://github.com/EmmanuelKubuafor
         target: _blank

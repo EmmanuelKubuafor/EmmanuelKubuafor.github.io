@@ -17,6 +17,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/emmanuel-kubuafor-gstat-93b355263/
+      target: _blank
     # - icon: github
     #   text: GitHub
     #   href: https://github.com/EmmanuelKubuafor
@@ -40,12 +41,12 @@ about:
    # - text: "{{< ai scopus >}} Scopus"
      # href: https://www.scopus.com
      # target: _blank
-    #- text: "{{< ai google-scholar >}} Google Scholar"
-      #href: https://scholar.google.com
-     # target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=BXzI-m8AAAAJ&hl=en
+      target: _blank
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net/profile/Emmanuel-Kubuafor-2?ev=hdr_xprf
+      target: _blank
 
 #listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
  # - id: recent-posts
