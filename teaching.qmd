@@ -34,7 +34,8 @@ A foundational course in algebraic reasoning, equations, and functions. Delivere
 ::: {.g-col-12 .g-col-md-10}
 **University of New Mexico, Department of Mathematics and Statistics**  
 **Instructor**  
-[Spring 2025](#)
+[Spring 2025](#)  
+[Fall 2025](#)
 
 An undergraduate course covering data collection, exploratory data analysis, probability, and statistical inference using real-world applications.
 :::
