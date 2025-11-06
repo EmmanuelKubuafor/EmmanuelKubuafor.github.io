@@ -1,68 +1,70 @@
 ---
 title: "Awards & Honors"
 subtitle: "Recognitions, Scholarships, and Distinctions"
-title-block-banner: false
 page-layout: full
+title-block-banner: false
+css: custom.css
 ---
 
+{{< include /files/includes/_academic.qmd >}}
 
 ## 2025
+- **Lester R. Curtin Award** — *American Statistical Association*  
+  Recognized for ML-powered anomaly detection in EHR streams for early outbreak response.
 
-- **ASA Lester R. Curtin Award**  
-  *American Statistical Association* — Recognized for the potential to enhance health statistics through ML-powered anomaly detection in EHR streams, enabling earlier outbreak response.
+- **JSM Early Career Travel Award** — *American Statistical Association*  
+  Support to attend the 2025 Joint Statistical Meetings in Nashville, TN.
 
-- **ASA SSPA Conference Grant**  
-  *ASA Section for Statistical Programmers and Analysts* — Received  conference travel grant for 2025     JSM.
+- **SSPA Conference Grant** — *ASA Section for Statistical Programmers & Analysts*  
+  
+  Travel grant for JSM 2025.
 
-- **JSM Early Career Travel Award**  
-  Awarded funds to attend the 2025 Joint Statistical Meetings in Nashville, TN.
+- **Symposium on Data Science and Statistics Travel Award** — *American Statistical Association*   
+  Travel grant for SDSS 2025.
 
-- **Golden Key International Honour Society**  
-  Recognized for placement in top 15% of UNM graduates based on academic excellence and leadership.
+- **Diversity Mentorship Program Award** — *American Statistical Association*  
+  For sustained mentoring of underrepresented students in statistics.
 
+- **Student Research Grant** — *University of New Mexico*  
+  Funded participation in the ENAR Spring Meeting 2025.
 
-- **UNM Student Research Grant Award**  
-  Funded travel to participate in the ENAR Spring Meeting 2025 to advance biostatistical training.
+- **Professional Development Grant** — *University of New Mexico*  
+  Supported participation in national statistical training workshops.
+
+- **Graduate Community Mentoring Scholarship** — *University of New Mexico*  
+  Recognized for exceptional peer mentoring and community engagement.
+
+- **African American Conference Assistance Award** — *University of New Mexico*  
+  Provided travel support to attend diversity and inclusion conferences.
+
+- **South Central Topology IV Travel Award** — *Texas A&M University*  
+  Recognized for academic engagement and excellence in mathematical sciences.
+
+- **Golden Key International Honour Society** — *University of New Mexico*  
+  Recognized for placement among the top 15% of UNM graduates for academic excellence and leadership.
 
 
 ## 2024
+- **Graduate Scholarship of Teaching and Learning** — *University of New Mexico*  
+  Recognized for excellence in pedagogical research and evidence-based teaching.
 
-- **UNM Graduate Teaching Scholar**  
-  Recognized for excellence in pedagogical research and implementation of evidence-based teaching practices at UNM.
-
-
-
-- **Project for New Mexico Graduates of Color Scholarship**  
-  Honored for transformative mentorship: Trained 2 peer mentors, hosted 4 grad-prep workshops, and advised STEM students.
+- **Project for New Mexico Graduates of Color Scholarship** — *University of New Mexico*  
+  Honored for transformative mentorship, peer development, and graduate preparation initiatives.
 
 
 ## 2023
-
-- **Best Teaching Assistant Award**  
-  *Department of Statistics & Actuarial Science, University of Ghana* — Selected as top-performing TA out of 20+ departmental TAs.
+- **Best Teaching Assistant Award** — *Department of Statistics & Actuarial Science, University of Ghana*  
+  Selected as top-performing TA among 20+ departmental teaching assistants.
 
 
 ## 2022
+- **Honor of Excellence and Dedication** — *University of Ghana Actuarial and Statistics Society*  
+  Recognized for two years of transformative leadership as Academic Committee President.
 
-- **Certification of Honor**  
-  *University of Ghana Actuarial and Statistics Society* — Honored for tremendous service and commitment through 2 years of transformative leadership as Academic Committee President.
-
-- **Most Hardworking Executive Award**  
-  *University of Ghana Actuarial and Statistics Society* — For creating the society’s first peer-tutoring program and professional development workshop series with industry partners.
-
+- **Most Hardworking Committee Executive** — *University of Ghana Actuarial and Statistics Society*  
+  For pioneering the society’s peer-tutoring and professional development initiatives.
 
 
-
-## 2020
-
-- **Dean’s Honor Award for Academic Excellence**  
-  *University of Ghana* — Awarded by the College of Basic and Applied Sciences for outstanding scholarly achievement (top 3%).
-
-
-
-
-
-
-
-
-<!-- Additional entries can be added below following the same format -->
+## 2021
+- **Dean’s Honor Award for Academic Excellence** — *University of Ghana, College of Basic and Applied Sciences*  
+  Awarded for outstanding scholarly achievement (top 3%).

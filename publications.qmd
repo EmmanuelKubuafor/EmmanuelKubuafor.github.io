@@ -1,34 +1,37 @@
 ---
-title: "Publications"
-description-meta: "Information, pdfs, and social metrics of papers"
-#page-layout: full
-#back-to-top-navigation: true
+title: "Manuscripts Under Review"
+description-meta: "Manuscripts under peer review by Emmanuel Kubuafor and collaborators"
 title-block-banner: false
 css: custom.css
 ---
 
-
-<!--Include academic icons or buttons-->
+<!-- Academic Icons -->
 {{< include /files/includes/_academic.qmd >}}
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
-
-Total citations as of January 2025:
-
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
-
-## Selected Work
-
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
 
 
-<center><hr style="width:50%"></center>
+- **Kubuafor, E.**, Baidoo, D., Duah, A., Amevor, R., Okeke, O. J., Quaye, D., & Appiah, P. O. (2025). *Latent Spatial Heterogeneity in U.S. Cancer Mortality: A Multi-Site Clustering and Spatial Autocorrelation Analysis.*  
+  [arXiv:2508.12188](https://arxiv.org/abs/2508.12188){.colored-link}
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+- **Kubuafor, E.**, Baidoo, D., Okeke, O. J., Amevor, R., Arhin, G., & Korley, J. T. (2025). *Evaluation of Time Series Forecasting Models for Predicting Lung Cancer Mortality Rates in the United States: A Comparison with Altuhaifa (2023) Study.*  
+  [arXiv:2508.16052](https://arxiv.org/abs/2508.16052){.colored-link}
 
+- Baidoo, D., **Kubuafor, E.**, Joshua, O. O., Osarfo, S. F., Agyei-Owusu, F. A., Akuoko-Frimpong, J., & Benyi, B. (2025). *Comparing Malaria Trends in the Comoros Islands: ARIMA Modeling and Retrospective Analysis.*  
+  [arXiv:2508.16018](https://arxiv.org/abs/2508.16018){.colored-link}
 
+- Amevor, R., **Kubuafor, E.**, Baidoo, D., Salifu, J., Gonnage, K. M., & Okeke, O. J. (2025). *Integrative Prognostic Modeling of Breast Cancer Survival with Gene Expression and Clinical Data.*  
+  [arXiv:2508.16740](https://arxiv.org/abs/2508.16740){.colored-link}
 
-<!--Include social share buttons-->
+- Baidoo, D., **Kubuafor, E.**, Osarfo, S. F., Agyei-Owusu, F. A., Frimpong, J. A., Amevor, R., & Aboagye, F. (2025). *Bayesian Hierarchical Methods for Surveillance of Cervical Dystonia Treatments.*  
+  [arXiv:2508.15762](https://arxiv.org/abs/2508.15762){.colored-link}
 
+- Okeke, O. J., Nwaogu, C., Oladoyin, O. O., **Kubuafor, E.**, Baidoo, D., Akinyemi, T., & Fabunmi, I. A. (2025). *Assessing the Influence of Locational Suitability on the Spatial Distribution of Household Wealth in Bernalillo County, NM.*  
+  [arXiv:2510.11048](https://arxiv.org/abs/2510.11048){.colored-link}
+
+- Okeke, O. J., **Kubuafor, E.** (2025). *Optimizing Cattle Ranching Locations in Chaves County, New Mexico: A GIS-based Assessment of Ecological Resources and Spatial Relationships to Active and Abandoned Oil and Gas Wells.*  
+  [Link](https://drive.google.com/file/d/1nuZqnttcz7ASJOGLB7X3kU9kq_0h9Iu3/view?usp=sharing){.colored-link}
+
+---
+
+<!-- Social Share Buttons -->
 {{< include /files/includes/_socialshare.qmd >}}

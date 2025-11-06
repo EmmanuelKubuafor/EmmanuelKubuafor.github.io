@@ -18,10 +18,12 @@ website:
     left:
       - text: Emmanuel Kubuafor
         href: index.qmd
-      - text: Research Projects
-        href: projects.qmd
-          # - text: News
-          #   href: posts.qmd#category=news
+      - text: Research
+        menu:
+           - text: Selected Manuscripts
+             href: publications.qmd
+           - text: Academic Projects
+             href: projects.qmd
           # - text: Events
           #   href: posts.qmd#category=event
       # - text: Research
@@ -34,8 +36,10 @@ website:
         href: teaching.qmd
       - text: Awards & Honors
         href: Awards.qmd
-      - text: Contact
-        href: contact.qmd
+      - text: Featured Posts
+        href: posts.qmd
+      #- text: Contact
+        #href: contact.qmd
       # - text: Outreach
       #   menu:
       #     - text: Presentations
@@ -45,7 +49,7 @@ website:
 
     right:
       - text: CV
-        href: files/cv_Emmanuel.pdf
+        href: files/CV.pdf
         target: _blank
       - icon: github
         href: https://github.com/EmmanuelKubuafor
