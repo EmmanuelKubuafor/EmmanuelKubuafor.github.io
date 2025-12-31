@@ -9,6 +9,8 @@ author-meta: "Emmanuel Kubuafor"
 
 website:
   title: ""
+  includes:
+   head: analytics.html
   google-analytics: "G-P4RRCG44LP"
   image: "files/images/Profile picture_Emmanuel_Kubuafor.jpg"
   description: "Personal academic site for research, teaching, and projects"
