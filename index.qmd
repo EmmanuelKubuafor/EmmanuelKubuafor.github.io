@@ -12,7 +12,7 @@ about:
   links:
     - icon: envelope
       text: E-mail
-      href: mailto:ekubuafor@uw.edu
+      href: mailto:kubuafor@uw.edu
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/emmanuel-kubuafor-gstat-93b355263/
@@ -34,7 +34,7 @@ about:
 
 ## About Me
 
-Thank you for visiting. I appreciate your time here
+Thank you for visiting. I appreciate your time here.
 
 I am a Statistician and Ph.D. student in Biostatistics at the [University of Washington](https://www.washington.edu). I completed my M.S. in Statistics at the [University of New Mexico](https://www.unm.edu) and my B.Sc. in Actuarial Science at the [University of Ghana](https://www.ug.edu.gh).
 
