@@ -1,0 +1,120 @@
+/*-- scss:rules --*/
+
+/* =========================================================
+   University of Washington dark-mode overrides
+   Loaded only in dark mode via theme: [cosmo, theme-dark.scss]
+   ========================================================= */
+
+:root {
+  --uw-purple: #9b7fd4;
+  --uw-purple-soft: #b9a3e3;
+  --uw-gold: #c9b78e;
+  --uw-metallic-gold: #B7A57A;
+  --uw-bg: #1a1625;
+  --uw-bg-soft: #241d33;
+
+  /* Override Bootstrap/cosmo body text so prose is white, not faded gray */
+  --bs-body-color: #e8e6ed;
+  --bs-body-color-rgb: 232, 230, 237;
+  --bs-emphasis-color: #ffffff;
+  --bs-secondary-color: rgba(232, 230, 237, 0.85);
+}
+
+body { background-color: var(--uw-bg); color: #e8e6ed; }
+
+/* Force white text on all non-link prose */
+body,
+p, li, span, td, th, dd, dt,
+.about-entity, .about-entity p,
+.quarto-about-trestles .about-entity,
+.about-contents, .about-contents p,
+figcaption, .figure-caption,
+.lead, blockquote {
+  color: #e8e6ed !important;
+}
+.text-muted, .navbar-text { color: #c4c0cf !important; }
+
+/* Links stay on brand color (override the white above) */
+a, .about-link, #TOC a, .toc a, .tocify a, .colored-link { color: var(--uw-gold) !important; }
+a:hover, a:focus { color: var(--uw-purple-soft) !important; }
+
+h1, h4 { color: var(--uw-purple); }
+h2, h3 { color: var(--uw-purple); border-bottom: 2px solid var(--uw-metallic-gold); }
+
+.navbar { background-color: #2d2240 !important; }
+.navbar .nav-link:hover, .navbar .nav-link:focus { color: var(--uw-gold) !important; }
+.navbar .dropdown-menu { background-color: var(--uw-bg-soft); border-top: 3px solid var(--uw-metallic-gold); }
+.navbar .dropdown-item { color: #e8e6ed; }
+.navbar .dropdown-item:hover { background-color: rgba(155, 127, 212, 0.15); color: var(--uw-purple-soft); }
+
+/* Clean circular photo, left-aligned, no ring */
+.about-image img,
+.about-entity img,
+#hero-heading img,
+.quarto-about-trestles .about-image img {
+  border-radius: 50% !important;
+  aspect-ratio: 1 / 1 !important;
+  width: 220px !important;
+  height: 220px !important;
+  object-fit: cover !important;
+  border: none !important;
+}
+
+/* Social buttons */
+.about-link { border: 1px solid var(--uw-gold); border-radius: 6px; }
+.about-link:hover { background-color: var(--uw-gold); color: var(--uw-bg) !important; }
+
+.btn-primary { background-color: var(--uw-purple); border-color: var(--uw-purple); color: var(--uw-bg); }
+.btn-primary:hover, .btn-primary:focus { background-color: var(--uw-gold); border-color: var(--uw-gold); color: var(--uw-bg); }
+
+blockquote { border-left: 4px solid var(--uw-metallic-gold); }
+
+code { color: var(--uw-gold) !important; }
+div.sourceCode { background-color: var(--uw-bg-soft); border-left: 3px solid var(--uw-metallic-gold); }
+
+.nav-footer { background-color: #2d2240; border-top: 3px solid var(--uw-metallic-gold); }
+.nav-footer a { color: var(--uw-gold) !important; }
+
+/* Your original selectors — dark variants */
+.quarto-grid-item { background: var(--uw-bg-soft); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4); }
+.quarto-grid-item:hover { box-shadow: 0 8px 24px rgba(0, 0, 0, 0.55); }
+.quarto-grid-item img { border-bottom: 1px solid #3a3050; }
+.card-title { color: var(--uw-purple-soft); }
+
+#TOC a.active, .tocify .tocify-focus { color: var(--uw-purple-soft) !important; border-left: 2px solid var(--uw-gold); }
+
+.colored-link { border-bottom: 1px solid var(--uw-gold); }
+.colored-link:hover { color: var(--uw-purple-soft) !important; border-bottom: 1px solid var(--uw-purple-soft); }
+
+ul li strong { color: var(--uw-gold) !important; }
+
+/* About-block social links — gold-accent rectangles (Option E), dark */
+.about-link {
+  color: var(--uw-gold) !important;
+  background: transparent;
+  border: 0.5px solid #3a3050 !important;
+  border-left: 3px solid var(--uw-metallic-gold) !important;
+  border-radius: 6px !important;
+  padding: 7px 14px !important;
+  font-weight: 500;
+}
+.about-link:hover,
+.about-link:focus {
+  background: rgba(155, 127, 212, 0.12);
+  border-left-color: var(--uw-gold) !important;
+  color: var(--uw-purple-soft) !important;
+}
+
+/* Education timeline — dark */
+.edu-timeline { border-left: 2px solid #3a3050; }
+.edu-item::before { background: var(--uw-purple); }
+.edu-item.edu-current::before { color: var(--uw-bg); }
+.edu-degree { color: var(--uw-purple); }
+.edu-timeline .edu-school { color: #e8e6ed !important; opacity: 0.9; }
+.edu-timeline .edu-school .edu-year { color: var(--uw-gold) !important; }.edu-year { color: var(--uw-gold); }
+
+
+.quarto-about-trestles .about-entity::after {
+  border-top: 1px solid var(--uw-metallic-gold);
+  color: var(--uw-gold);
+}

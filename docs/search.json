@@ -93,9 +93,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Emmanuel Kubuafor, Gstat",
+    "title": "Emmanuel Kubuafor, M.S, Gstat",
     "section": "",
-    "text": "I am a graduate statistician with experience in spatial analysis, survival models, and systematic reviews. I am currently pursuing an M.S. in Statistics at the University of New Mexico, and I hold a B.Sc. in Mathematical Science from the University of Ghana.\nMy work focuses on applying statistical methods to public health challenges, with interests in applied methodology, population health, and data-informed policy. I value clear communication, rigorous analysis, and collaborative problem-solving."
+    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      RPubs\n  \n  \n      Google Scholar\n  \n  \n      Research Gate\n  \n  \n      ORCID\n  \n\n  \n  \n\n\nThank you for visiting. I appreciate your time here\nI am a Statistician and Ph.D. student in Biostatistics at the University of Washington. I completed my M.S. in Statistics at the University of New Mexico and my B.Sc. in Actuarial Science at the University of Ghana.\nMy research develops statistical methods for questions in health and population data, with an emphasis on work that is rigorous, practical, and relevant to clinical and policy decisions.\nTeaching and mentoring matter to me as much as research. I teach and tutor students in quantitative coursework and mentor those from underrepresented backgrounds finding their footing in STEM. I am also actively involved with the American Statistical Association and ENAR (Eastern North American Region), where I have served as a session chair, reviewed for student research programs, and taken part in education and early-career initiatives.\n\n\n\nAway from work, I like to cook (hopefully not burning anything while staring at the game), follow European football (yes, I argue about referees like it’s my job), and enjoy graphic design. I also love to travel and experience new cultures, which keeps me curious about the wider world and the different ways people make sense of it.\n\n\n\n\n  \n    Ph.D. in Biostatistics\n    University of Washington · September 2026 — May 2030\n  \n  \n    M.S. in Statistics\n    University of New Mexico · Jan 2024 — May 2026\n  \n  \n    B.Sc. in Actuarial Science\n    University of Ghana · Aug 2018 — Sep 2022"
   },
   {
     "objectID": "index.html#experience",
@@ -107,9 +107,9 @@
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Emmanuel Kubuafor, Statistician",
-    "section": "Education",
-    "text": "Education\n\nM.S. in Statistics, University of New Mexico (2024-Present)\nB.S. in Mathematical Science, University of Ghana (2018-2022)"
+    "title": "Emmanuel Kubuafor, M.S, Gstat",
+    "section": "",
+    "text": "Ph.D. in Biostatistics\n    University of Washington · September 2026 — May 2030\n  \n  \n    M.S. in Statistics\n    University of New Mexico · Jan 2024 — May 2026\n  \n  \n    B.Sc. in Actuarial Science\n    University of Ghana · Aug 2018 — Sep 2022"
   },
   {
     "objectID": "contact.html",
@@ -221,7 +221,7 @@
     "href": "index.html#about",
     "title": "Emmanuel Kubuafor, Gstat",
     "section": "",
-    "text": "I am a graduate statistician with experience in spatial analysis, survival models, and systematic reviews. I am currently pursuing an M.S. in Statistics at the University of New Mexico, and I hold a B.Sc. in Mathematical Science from the University of Ghana.\nMy work focuses on applying statistical methods to public health challenges, with interests in applied methodology, population health, and data-informed policy. I value clear communication, rigorous analysis, and collaborative problem-solving."
+    "text": "I am a graduate statistician working in spatial statistics, survival analysis, and statistical methods for public health. I am completing an M.S. in Statistics at the University of New Mexico and will begin a Ph.D. in Biostatistics at the University of Washington in September 2026. I hold a B.Sc. in Mathematical Science from the University of Ghana.\nMy work applies statistical methods to public health challenges, with interests in applied methodology, population health, and data-informed policy. My long-term goal is to build a research program in Ghana developing statistical methods for Africa’s health and education challenges. I value clear communication, rigorous analysis, and collaborative problem-solving."
   },
   {
     "objectID": "projects.html#research-projects",
@@ -250,5 +250,54 @@
     "title": "Featured Posts",
     "section": "",
     "text": "🏆 Lester R. Curtin Award — American Statistical Association (2025)\nEmmanuel Kubuafor received the ASA’s Lester R. Curtin Award at the 2025 Joint Statistical Meetings in Nashville.\nThe award supports promising early-career health statisticians in attending professional conferences and advancing methodological skills.\nRead the UNM announcement · About the award\n\n🎓 Campersand: Math Summer Camp at UNM (2024)\nAs a counselor at UNM’s annual Campersand Math Camp, Emmanuel helped mentor over 100 middle- and high-school students in math, logic, and computing.\nThe program fosters mathematical curiosity and teamwork through engaging, project-based learning.\nRead more\n🤝 ASA Diversity Mentoring Program (2025)\nFeatured in Amstat News’s “Stats from the Road” series, Emmanuel shared his experience with the ASA Diversity Mentoring Program (DMP), which connects early-career statisticians from underrepresented backgrounds with professional mentors.\nHe described the program as “an eye-opener… very informative and resourceful.”\nRead the article\n\nUpdated November 2025"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Emmanuel Kubuafor, Gstat",
+    "section": "What I Do",
+    "text": "What I Do\nI develop and apply statistical methods that turn complex data into clear, defensible conclusions. My current work spans non-parametric estimation of spatial autocorrelation in neuroimaging residuals, time-varying hazard modeling in clinical survival data, and spatial methods for diagnosing learning gaps in education systems. I work primarily in R, with MATLAB for computational work and LaTeX for reproducible academic writing."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Emmanuel Kubuafor, Gstat",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nSpatial statistics and autocorrelation modeling\nSurvival analysis and time-varying hazards\nStatistical methods for neuroimaging (fMRI cluster-level inference)\nPopulation health and data-informed policy\nStatistical methods education"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Emmanuel Kubuafor, Gstat",
+    "section": "Teaching",
+    "text": "Teaching\nI have taught and supported a range of statistics courses as a course instructor and teaching assistant at the University of New Mexico and the University of Ghana, covering introductory statistics, statistical computing, biostatistics, regression analysis, and probability. I care about clear explanation and building genuine statistical intuition in students. See the Teaching page for details."
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Emmanuel Kubuafor, Gstat",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nStatistical computing: R (tidyverse, spatial and survival packages), MATLAB\nMethods: spatial autocorrelation, variogram estimation, survival/Cox modeling, bootstrap inference, systematic review\nReproducible research: LaTeX, Quarto, R Markdown, Git\nCommunication: academic writing, technical presentation, data visualization"
+  },
+  {
+    "objectID": "index.html#focus-areas",
+    "href": "index.html#focus-areas",
+    "title": "Emmanuel Kubuafor",
+    "section": "Focus Areas",
+    "text": "Focus Areas\n\n  \n    Spatial Statistics\n    Autocorrelation modeling and non-parametric variogram estimation, with\n    applications to neuroimaging and education data.\n  \n  \n    Survival Analysis\n    Time-varying hazards, piecewise Cox models, and bootstrap validation for\n    clinical and population-health questions.\n  \n  \n    Statistics Education\n    Teaching and methods development across introductory statistics,\n    computing, biostatistics, regression, and probability."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Emmanuel Kubuafor, M.S, Gstat",
+    "section": "",
+    "text": "Thank you for visiting. I appreciate your time here\nI am a Statistician and Ph.D. student in Biostatistics at the University of Washington. I completed my M.S. in Statistics at the University of New Mexico and my B.Sc. in Actuarial Science at the University of Ghana.\nMy research develops statistical methods for questions in health and population data, with an emphasis on work that is rigorous, practical, and relevant to clinical and policy decisions.\nTeaching and mentoring matter to me as much as research. I teach and tutor students in quantitative coursework and mentor those from underrepresented backgrounds finding their footing in STEM. I am also actively involved with the American Statistical Association and ENAR (Eastern North American Region), where I have served as a session chair, reviewed for student research programs, and taken part in education and early-career initiatives."
+  },
+  {
+    "objectID": "index.html#beyond-the-numbers",
+    "href": "index.html#beyond-the-numbers",
+    "title": "Emmanuel Kubuafor, M.S, Gstat",
+    "section": "",
+    "text": "Away from work, I like to cook (hopefully not burning anything while staring at the game), follow European football (yes, I argue about referees like it’s my job), and enjoy graphic design. I also love to travel and experience new cultures, which keeps me curious about the wider world and the different ways people make sense of it."
   }
 ]

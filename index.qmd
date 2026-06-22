@@ -1,90 +1,67 @@
 ---
-title: "Emmanuel Kubuafor, [Gstat](https://ww2.amstat.org/accreditation/roster.cfm)"
+title: "Emmanuel Kubuafor, M.S, [Gstat](https://ww2.amstat.org/accreditation/roster.cfm)"
 description-meta: "Academic website for Emmanuel Kubuafor, specializing in statistical modeling and data science."
-image: "files/images/pic3.png"  # Optional: Add your image
+image: "files/images/pic4.jpg"
 page-navigation: false
 toc: false
-#sidebar: false
 page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 70%
+  image-width: 40%
   links:
     - icon: envelope
       text: E-mail
-      href: mailto:ekubuafor@unm.edu
+      href: mailto:ekubuafor@uw.edu
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/emmanuel-kubuafor-gstat-93b355263/
       target: _blank
-    # - icon: github
-    #   text: GitHub
-    #   href: https://github.com/EmmanuelKubuafor
-    - icon: file-text
-      text: RPubs
+    - text: "{{< fa brands r-project >}} RPubs"
       href: https://rpubs.com/Emmanuel_Kubuafor
-     #- icon: sun
-     # text: Lab
-     # href: https://www.github.com
-     # target: _blank
-    #- icon: globe
-     # text: Uprofile
-     # href: https://baruch.cuny.edu
-      #target: _blank
-    #- text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      ##href: https://orcid.org
-      #target: _blank
-    #- text: "{{< ai clarivate >}} Web of Science"
-     # href: https://www.webofscience.com  
-      #target: _blank
-   # - text: "{{< ai scopus >}} Scopus"
-     # href: https://www.scopus.com
-     # target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=BXzI-m8AAAAJ&hl=en
       target: _blank
     - text: "{{< ai researchgate >}} Research Gate"
       href: https://www.researchgate.net/profile/Emmanuel-Kubuafor-2?ev=hdr_xprf
       target: _blank
-
-#listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
- # - id: recent-posts
-   # contents: 
-     ## - posts
-     # - posts/post-links.yml
-   # exclude:
-    #  title: ""
-   # type: grid
-    #max-items: 3
-#    image-height: 150px
-   # page-size: 3 #set same as max-times to remove the page number setting
-    #fields: [image, date, title, subtitle]
-    #max-description-length: 75
-    #sort: 
-    #  - "date desc"
-     # - "title asc"
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/my-orcid?orcid=0009-0000-7315-4041
+      target: _blank
 ---
 
+:::{#hero-heading}
 
-## **About**
+## About Me
 
-::: {.about}
+Thank you for visiting. I appreciate your time here
 
-I am a graduate statistician with experience in spatial analysis, survival models, and systematic reviews. I am currently pursuing an M.S. in Statistics at the [University of New Mexico](https://www.unm.edu), and I hold a B.Sc. in Mathematical Science from the [University of Ghana](https://www.ug.edu.gh).
+I am a Statistician and Ph.D. student in Biostatistics at the [University of Washington](https://www.washington.edu). I completed my M.S. in Statistics at the [University of New Mexico](https://www.unm.edu) and my B.Sc. in Actuarial Science at the [University of Ghana](https://www.ug.edu.gh).
 
-My work focuses on applying statistical methods to public health challenges, with interests in applied methodology, population health, and data-informed policy. I value clear communication, rigorous analysis, and collaborative problem-solving.
+My research develops statistical methods for questions in health and population data, with an emphasis on work that is rigorous, practical, and relevant to clinical and policy decisions.
 
-:::
+Teaching and mentoring matter to me as much as research. I teach and tutor students in quantitative coursework and mentor those from underrepresented backgrounds finding their footing in STEM. I am also actively involved with the [American Statistical Association](https://www.amstat.org) and ENAR ([Eastern North American Region](https://www.enar.org)), where I have served as a session chair, reviewed for student research programs, and taken part in education and early-career initiatives.
 
+## Beyond the Numbers
 
+Away from work, I like to cook (hopefully not burning anything while staring at the game), follow European football (yes, I argue about referees like it’s my job), and enjoy graphic design. I also love to travel and experience new cultures, which keeps me curious about the wider world and the different ways people make sense of it.
 
-<!-- ## Experience -->
+## Education
 
-<!-- -   Research Assistant, University of New Mexico -->
-<!-- -   Project Assistant, African American Student Services-UNM -->
+```{=html}
+<div class="edu-timeline">
+  <div class="edu-item edu-current">
+    <div class="edu-degree">Ph.D. in Biostatistics</div>
+    <div class="edu-school">University of Washington · <span class="edu-year">September 2026 — May 2030</span></div>
+  </div>
+  <div class="edu-item">
+    <div class="edu-degree">M.S. in Statistics</div>
+    <div class="edu-school">University of New Mexico · <span class="edu-year">Jan 2024 — May 2026</span></div>
+  </div>
+  <div class="edu-item">
+    <div class="edu-degree">B.Sc. in Actuarial Science</div>
+    <div class="edu-school">University of Ghana · <span class="edu-year">Aug 2018 — Sep 2022</span></div>
+  </div>
+</div>
+```
 
-<!-- ## Education -->
-
-<!-- -   M.S. in Statistics, University of New Mexico (2024-Present) -->
-<!-- -   B.S. in Mathematical Science, University of Ghana (2018-2022) -->

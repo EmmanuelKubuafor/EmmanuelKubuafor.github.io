@@ -1,7 +1,6 @@
 project:
   type: website
   output-dir: docs
-  
 
 # Meta
 description-meta: "Academic website for Emmanuel Kubuafor, statistician and data scientist."
@@ -12,42 +11,27 @@ website:
   google-analytics: "G-P4RRCG44LP"
   image: "files/images/Profile picture_Emmanuel_Kubuafor.jpg"
   description: "Personal academic site for research, teaching, and projects"
-
   navbar:
-    background: brown
-    
+    background: "#4B2E83"
+    foreground: "#FFFFFF"
+    pinned: true
+    logo: files/images/uw logo 2.png
+    logo-alt: "University of Washington"
     left:
-      - text: Emmanuel Kubuafor
+      - text: Home
         href: index.qmd
       - text: Research
         menu:
-           - text: Selected Manuscripts
-             href: publications.qmd
-           - text: Academic Projects
-             href: projects.qmd
-          # - text: Events
-          #   href: posts.qmd#category=event
-      # - text: Research
-      #   menu:
-      #     - text: List of Publications
-      #       href: publications.qmd
-      #     - text: Selected Papers
-      #       href: posts.qmd#category=paper
+          - text: Selected Manuscripts
+            href: publications.qmd
+          - text: Academic Projects
+            href: projects.qmd
       - text: Teaching
         href: teaching.qmd
       - text: Awards & Honors
         href: Awards.qmd
       - text: Featured Posts
         href: posts.qmd
-      #- text: Contact
-        #href: contact.qmd
-      # - text: Outreach
-      #   menu:
-      #     - text: Presentations
-      #       href: posts.qmd#category=presentation
-      # - text: Group
-      #   href: people.qmd
-
     right:
       - text: CV
         href: files/CV.pdf
@@ -55,16 +39,10 @@ website:
       - icon: github
         href: https://github.com/EmmanuelKubuafor
         target: _blank
-      - icon: file-text
-        # text: Rpubs
-        # href: https://rpubs.com/Emmanuel_Kubuafor
-        # target: _blank
-
   page-navigation: true
-
   page-footer:
-    left: "[Emmanuel Kubuafor](https://github.com/EmmanuelKubuafor) &copy; <script>document.write(new Date().getFullYear())</script>"
-    center: "Built with [Quarto](https://quarto.org) • Adapted from [Dr. Gang He](http://drganghe.github.io)'s template"
+    left: "[EmmanuelKubuafor](https://github.com/EmmanuelKubuafor) &copy; <script>document.write(new Date().getFullYear())</script>"
+    center: 'Last updated <script>document.write(new Date(document.lastModified).toLocaleDateString("en-US", {year:"numeric", month:"long", day:"numeric"}))</script>'
     right:
       - icon: github
         href: https://github.com/EmmanuelKubuafor
@@ -73,31 +51,23 @@ website:
         text: Rpubs
         href: https://rpubs.com/Emmanuel_Kubuafor
         target: _blank
-
   search:
     location: navbar
     type: textbox
-
   reader-mode: true
   draft-mode: unlinked
-
   repo-url: https://github.com/EmmanuelKubuafor/EmmanuelKubuafor.github.io
-
   open-graph: true
   twitter-card: true
-
   site-url: "https://EmmanuelKubuafor.github.io"
-
-#   google-analytics:
-#     tracking-id: ""  # Add your own ID if needed
-#     anonymize-ip: true
-# 
-# bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    css:
+      - styles.css
     toc: true
     page-layout: full
     footnotes-hover: true
@@ -108,6 +78,6 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     email-obfuscation: javascript
-    include-in-header: 
+    include-in-header:
       - "files/includes/_academic.qmd"
       - "analytics.html"
