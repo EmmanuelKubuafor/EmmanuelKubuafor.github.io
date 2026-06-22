@@ -47,10 +47,10 @@ website:
       - icon: github
         href: https://github.com/EmmanuelKubuafor
         target: _blank
-      - icon: file-text
-        text: Rpubs
-        href: https://rpubs.com/Emmanuel_Kubuafor
-        target: _blank
+      #- icon: file-text
+        # text: Rpubs
+        # href: https://rpubs.com/Emmanuel_Kubuafor
+        # target: _blank
   search:
     location: navbar
     type: textbox
