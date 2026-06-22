@@ -2,7 +2,7 @@
 title: "Emmanuel Kubuafor, M.S, [Gstat](https://ww2.amstat.org/accreditation/roster.cfm)"
 description-meta: "Academic website for Emmanuel Kubuafor, specializing in statistical modeling and data science."
 image: "files/images/pic4.jpg"
-page-navigation: false
+page-navigation: true
 toc: false
 page-layout: full
 about:
