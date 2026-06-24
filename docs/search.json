@@ -4,14 +4,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "University of New Mexico, Department of Mathematics and Statistics\nInstructor\nSummer 2025\nA foundational course in algebraic reasoning, equations, and functions. Delivered in-person to a diverse student population."
+    "text": "University of New Mexico, Department of Mathematics and Statistics\nInstructor\nSummer 2026 Summer 2025\nA foundational course in algebraic reasoning, equations, and functions. Delivered in-person to a diverse student population."
   },
   {
     "objectID": "teaching.html#college-algebra",
     "href": "teaching.html#college-algebra",
     "title": "Teaching",
     "section": "",
-    "text": "University of New Mexico, Department of Mathematics and Statistics\nInstructor\nSummer 2025\nA foundational course in algebraic reasoning, equations, and functions. Delivered in-person to a diverse student population."
+    "text": "University of New Mexico, Department of Mathematics and Statistics\nInstructor\nSummer 2026 Summer 2025\nA foundational course in algebraic reasoning, equations, and functions. Delivered in-person to a diverse student population."
   },
   {
     "objectID": "teaching.html#introduction-to-statistics",
@@ -39,7 +39,7 @@
     "href": "teaching.html#introduction-to-biostatistics",
     "title": "Teaching",
     "section": "Introduction to Biostatistics",
-    "text": "Introduction to Biostatistics\n\n\n\n\n\nUniversity of Ghana, Department of Actuarial Science and Statistics\nTeaching Assistant\nSummer 2023\nCovered study design, categorical data anlysis,hypothesis testing and survival analysis."
+    "text": "Introduction to Biostatistics\n\n\n\n\n\nUniversity of Ghana, Department of Actuarial Science and Statistics\nTeaching Assistant\nSummer 2023\nCovered study design, categorical data analysis, hypothesis testing, and survival analysis."
   },
   {
     "objectID": "teaching.html#advanced-linear-regression",
@@ -53,28 +53,28 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Spatiotemporal Patterns of Outbreak-Related Illnesses\n\n\nAnalyzed 50 years of U.S. outbreak data using Shiny dashboards and spatial statistics.\n\n\n \n\nBayesian Beta-Carotene Supplementation Study\n\n\nAnalyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n \n\nDietary Sulfamerazine Study on Brown Trout \n\n\nModeling dose–response effects of dietary sulfamerazine on red blood Cell Counts in brown trout.\n\n\n \n\nForecasting Lung Cancer Mortality\n\n\nCompared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n \n\nSerum Prostate-Specific Antigen (PSA) Determinants in Prostate Study\n\n\nA regression-based clinical assessment on serum Prostate-Specific Antigen (PSA) determinants in prostate cancer.\n\n\n \n\nMalaria Trend Analysis in Comoros\n\n\nModeling seasonal spikes in malaria using ARIMA modeling to inform timely response."
+    "text": "Spatiotemporal Patterns of Outbreak-Related Illnesses\n  Analyzed 50 years of U.S. outbreak data using Shiny dashboards and spatial statistics.\n\n\n  \n  Bayesian Beta-Carotene Supplementation Study\n  Analyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n  \n  Dietary Sulfamerazine Study on Brown Trout\n  Modeling dose–response effects of dietary sulfamerazine on red blood cell counts in brown trout.\n\n\n  \n  Forecasting Lung Cancer Mortality\n  Compared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n  \n  PSA Determinants in Prostate Cancer\n  A regression-based clinical assessment of serum prostate-specific antigen (PSA) determinants in prostate cancer.\n\n\n  \n  Malaria Trend Analysis in Comoros\n  Modeling seasonal spikes in malaria using ARIMA modeling to inform timely response."
   },
   {
     "objectID": "projects.html#health-epidemiology",
     "href": "projects.html#health-epidemiology",
     "title": "Projects",
     "section": "",
-    "text": "Spatiotemporal Patterns of Outbreak-Related Illnesses\n\n\nAnalyzed 50 years of U.S. outbreak data using Shiny dashboards and spatial statistics.\n\n\n \n\nBayesian Beta-Carotene Supplementation Study\n\n\nAnalyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n \n\nDietary Sulfamerazine Study on Brown Trout \n\n\nModeling dose–response effects of dietary sulfamerazine on red blood Cell Counts in brown trout.\n\n\n \n\nForecasting Lung Cancer Mortality\n\n\nCompared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n \n\nSerum Prostate-Specific Antigen (PSA) Determinants in Prostate Study\n\n\nA regression-based clinical assessment on serum Prostate-Specific Antigen (PSA) determinants in prostate cancer.\n\n\n \n\nMalaria Trend Analysis in Comoros\n\n\nModeling seasonal spikes in malaria using ARIMA modeling to inform timely response."
+    "text": "Spatiotemporal Patterns of Outbreak-Related Illnesses\n  Analyzed 50 years of U.S. outbreak data using Shiny dashboards and spatial statistics.\n\n\n  \n  Bayesian Beta-Carotene Supplementation Study\n  Analyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n  \n  Dietary Sulfamerazine Study on Brown Trout\n  Modeling dose–response effects of dietary sulfamerazine on red blood cell counts in brown trout.\n\n\n  \n  Forecasting Lung Cancer Mortality\n  Compared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n  \n  PSA Determinants in Prostate Cancer\n  A regression-based clinical assessment of serum prostate-specific antigen (PSA) determinants in prostate cancer.\n\n\n  \n  Malaria Trend Analysis in Comoros\n  Modeling seasonal spikes in malaria using ARIMA modeling to inform timely response."
   },
   {
     "objectID": "projects.html#education-society",
     "href": "projects.html#education-society",
     "title": "Projects",
     "section": "Education & Society",
-    "text": "Education & Society\n\n \n\nGlobal Student-Teacher Ratio Modeling\n\n\nMixed-effects framework to study education-level class size disparities worldwide."
+    "text": "Education & Society\n\n\n  \n  Global Student-Teacher Ratio Modeling\n  Mixed-effects framework to study education-level class size disparities worldwide."
   },
   {
     "objectID": "projects.html#environmental-modeling",
     "href": "projects.html#environmental-modeling",
     "title": "Projects",
     "section": "Environmental Modeling",
-    "text": "Environmental Modeling\n\n \n\nOzone Concentration in Bernalillo, NM\n\n\nRegression analysis of meteorological and seasonal ozone drivers in New Mexico."
+    "text": "Environmental Modeling\n\n\n  \n  Ozone Concentration in Bernalillo, NM\n  Regression analysis of meteorological and seasonal ozone drivers in New Mexico."
   },
   {
     "objectID": "posts/paper-title/index.html#abstract",
@@ -185,36 +185,36 @@
     "objectID": "Awards.html#section",
     "href": "Awards.html#section",
     "title": "Awards & Honors",
-    "section": "2025",
-    "text": "2025\n\nLester R. Curtin Award — American Statistical Association\nRecognized for ML-powered anomaly detection in EHR streams for early outbreak response.\nJSM Early Career Travel Award — American Statistical Association\nSupport to attend the 2025 Joint Statistical Meetings in Nashville, TN.\nSSPA Conference Grant — ASA Section for Statistical Programmers & Analysts\nTravel grant for JSM 2025.\nSymposium on Data Science and Statistics Travel Award — American Statistical Association\nTravel grant for SDSS 2025.\nDiversity Mentorship Program Award — American Statistical Association\nFor sustained mentoring of underrepresented students in statistics.\nStudent Research Grant — University of New Mexico\nFunded participation in the ENAR Spring Meeting 2025.\nProfessional Development Grant — University of New Mexico\nSupported participation in national statistical training workshops.\nGraduate Community Mentoring Scholarship — University of New Mexico\nRecognized for exceptional peer mentoring and community engagement.\nAfrican American Conference Assistance Award — University of New Mexico\nProvided travel support to attend diversity and inclusion conferences.\nSouth Central Topology IV Travel Award — Texas A&M University\nRecognized for academic engagement and excellence in mathematical sciences.\nGolden Key International Honour Society — University of New Mexico\nRecognized for placement among the top 15% of UNM graduates for academic excellence and leadership."
+    "section": "2026",
+    "text": "2026\n\nOutstanding Graduate Student in Teaching — University of New Mexico\nDepartmental recognition for excellence in undergraduate instruction.\nTeaching Statistical Thinking with GAISE Workshop Travel Award — NSF-Funded EAPOST Program\nSupport to attend a workshop on evidence-based statistics pedagogy.\nNISS Writing Workshop for Junior Researchers Travel Award — National Institute of Statistical Sciences\nSelected for a national scientific-writing workshop for early-career researchers.\nStatistics in Pharmaceuticals (SIP) Travel Scholarship — University of Connecticut\nTravel support to attend and present at the SIP conference.\nPharmaSUG Student Scholarship — Pharmaceutical Industry SAS® Users Group\nStudent award supporting participation in the PharmaSUG conference.\nStudent Research Grant — University of New Mexico\nFunded research dissemination at national meetings.\nSSPA Conference Grant — ASA Section for Statistical Programmers & Analysts\nTravel grant for the Joint Statistical Meetings.\nJSM Early Career Travel Award — American Statistical Association\nSupport to attend and present at the 2026 Joint Statistical Meetings in Boston, MA.\nAfrican American Conference Assistance Award — University of New Mexico\nTravel support to attend conferences."
   },
   {
     "objectID": "Awards.html#section-1",
     "href": "Awards.html#section-1",
     "title": "Awards & Honors",
-    "section": "2024",
-    "text": "2024\n\nGraduate Scholarship of Teaching and Learning — University of New Mexico\nRecognized for excellence in pedagogical research and evidence-based teaching.\nProject for New Mexico Graduates of Color Scholarship — University of New Mexico\nHonored for transformative mentorship, peer development, and graduate preparation initiatives."
+    "section": "2025",
+    "text": "2025\n\nLester R. Curtin Award — American Statistical Association\nAwarded to a promising student in statistics within the government and public-health community.\nJSM Early Career Travel Award — American Statistical Association\nSupport to attend the 2025 Joint Statistical Meetings.\nSSPA Conference Grant — ASA Section for Statistical Programmers & Analysts\nTravel grant for JSM 2025.\nSymposium on Data Science and Statistics Travel Award — American Statistical Association\nTravel grant for SDSS 2025.\nDiversity Mentorship Program Award — American Statistical Association\nFunded participation in the ASA Diversity Mentorship Program\nStudent Research Grant — University of New Mexico\nSupport for original research and its dissemination.\nProfessional Development Grant — University of New Mexico\nSupported participation in national statistical training workshops.\nGraduate Community Mentoring Scholarship — University of New Mexico\nAwarded for academic promise and engagement in UNM’s graduate mentoring community\nSouth Central Topology IV Travel Award — Texas A&M University\nTravel support to participate in the South Central Topology conference.\nGolden Key International Honour Society — University of New Mexico\nRecognized for placement among the top 15% of UNM graduates for academic excellence."
   },
   {
     "objectID": "Awards.html#section-2",
     "href": "Awards.html#section-2",
     "title": "Awards & Honors",
-    "section": "2023",
-    "text": "2023\n\nBest Teaching Assistant Award — Department of Statistics & Actuarial Science, University of Ghana\nSelected as top-performing TA among 20+ departmental teaching assistants."
+    "section": "2024",
+    "text": "2024\n\nGraduate Scholarship of Teaching and Learning — University of New Mexico\nRecognized for excellence in pedagogical research and evidence-based teaching.\nProject for New Mexico Graduates of Color Scholarship — University of New Mexico\nHonored for mentorship, peer development, and graduate preparation initiatives."
   },
   {
     "objectID": "Awards.html#section-3",
     "href": "Awards.html#section-3",
     "title": "Awards & Honors",
-    "section": "2022",
-    "text": "2022\n\nHonor of Excellence and Dedication — University of Ghana Actuarial and Statistics Society\nRecognized for two years of transformative leadership as Academic Committee President.\nMost Hardworking Committee Executive — University of Ghana Actuarial and Statistics Society\nFor pioneering the society’s peer-tutoring and professional development initiatives."
+    "section": "2023",
+    "text": "2023\n\nBest Teaching Assistant Award — Department of Statistics & Actuarial Science, University of Ghana\nSelected as top-performing TA among 20+ departmental teaching assistants."
   },
   {
     "objectID": "Awards.html#section-4",
     "href": "Awards.html#section-4",
     "title": "Awards & Honors",
-    "section": "2021",
-    "text": "2021\n\nDean’s Honor Award for Academic Excellence — University of Ghana, College of Basic and Applied Sciences\nAwarded for outstanding scholarly achievement (top 3%)."
+    "section": "2022",
+    "text": "2022\n\nHonor of Excellence and Dedication — University of Ghana Actuarial and Statistics Society\nRecognized for two years of leadership as Academic Committee President.\nMost Hardworking Committee Executive — University of Ghana Actuarial and Statistics Society\nFor pioneering the society’s peer-tutoring and professional development initiatives."
   },
   {
     "objectID": "index.html#about",
@@ -249,7 +249,7 @@
     "href": "posts.html",
     "title": "Featured Posts",
     "section": "",
-    "text": "🏆 Lester R. Curtin Award — American Statistical Association (2025)\nEmmanuel Kubuafor received the ASA’s Lester R. Curtin Award at the 2025 Joint Statistical Meetings in Nashville.\nThe award supports promising early-career health statisticians in attending professional conferences and advancing methodological skills.\nRead the UNM announcement · About the award\n\n🎓 Campersand: Math Summer Camp at UNM (2024)\nAs a counselor at UNM’s annual Campersand Math Camp, Emmanuel helped mentor over 100 middle- and high-school students in math, logic, and computing.\nThe program fosters mathematical curiosity and teamwork through engaging, project-based learning.\nRead more\n🤝 ASA Diversity Mentoring Program (2025)\nFeatured in Amstat News’s “Stats from the Road” series, Emmanuel shared his experience with the ASA Diversity Mentoring Program (DMP), which connects early-career statisticians from underrepresented backgrounds with professional mentors.\nHe described the program as “an eye-opener… very informative and resourceful.”\nRead the article\n\nUpdated November 2025"
+    "text": "🎓 PharmaSUG 2026 Student Scholarship (2026)\nEmmanuel was selected as a recipient of the PharmaSUG 2026 Student Scholarship, awarded to a select group of full-time students to attend the PharmaSUG conference in Boston. The program helps students build statistical and programming skills, explore the field, and connect with the pharmaceutical and clinical-research community.\nSee the PharmaSUG students page\n\n🏆 Lester R. Curtin Award — American Statistical Association (2025)\nEmmanuel Kubuafor, together with Dennis Baidoo, received the ASA’s Lester R. Curtin Award at the 2025 Joint Statistical Meetings in Nashville, Tennessee. Established in memory of CDC health statistician Lester “Randy” Curtin, the award supports promising early-career health statisticians in attending professional conferences and advancing their methodological skills. The recognition was presented during ASA President Prof. Ji-Hyun Lee’s award ceremony.\nRead the UNM announcement · About the award\n\n🤝 ASA Diversity Mentoring Program (2025)\nFeatured in Amstat News’s “Stats from the Road” series, Emmanuel shared his experience with the ASA Diversity Mentoring Program (DMP), which connects early-career statisticians from underrepresented backgrounds with professional mentors. He described the program as an eye-opening and resourceful experience.\nRead the article\n\n🧮 Campersand: Math Summer Camp at UNM (2024)\nAs a counselor at UNM’s annual Campersand Math Camp, Emmanuel helped mentor middle- and high-school students in math, logic, and computing. The program fosters mathematical curiosity and teamwork through engaging, project-based learning.\nRead more\n\nUpdated June 2026"
   },
   {
     "objectID": "index.html#what-i-do",
@@ -299,5 +299,12 @@
     "title": "Emmanuel Kubuafor, M.S, Gstat",
     "section": "",
     "text": "Away from work, I like to cook (hopefully not burning anything while staring at the game), follow European football (yes, I argue about referees like it’s my job), and enjoy graphic design. I also love to travel and experience new cultures, which keeps me curious about the wider world and the different ways people make sense of it."
+  },
+  {
+    "objectID": "teaching.html#survey-of-mathematics",
+    "href": "teaching.html#survey-of-mathematics",
+    "title": "Teaching",
+    "section": "Survey of Mathematics",
+    "text": "Survey of Mathematics\n\n\n\n\n\nUniversity of New Mexico, Department of Mathematics and Statistics\nInstructor\nSpring 2026\nA general-education mathematics course exploring practical, real-world topics such as logic, probability, statistics, and financial mathematics for non-STEM majors."
   }
 ]

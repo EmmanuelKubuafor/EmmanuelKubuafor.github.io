@@ -34,7 +34,7 @@ website:
         href: posts.qmd
     right:
       - text: CV
-        href: files/CV.pdf
+        href: files/CV for EmmanuelKubuafor.pdf
         target: _blank
       - icon: github
         href: https://github.com/EmmanuelKubuafor

@@ -8,25 +8,28 @@ css: custom.css
 <!-- Academic Icons -->
 {{< include /files/includes/_academic.qmd >}}
 
+**🎓 PharmaSUG 2026 Student Scholarship (2026)**  
+Emmanuel was selected as a recipient of the *PharmaSUG 2026 Student Scholarship*, awarded to a select group of full-time students to attend the PharmaSUG conference in Boston. The program helps students build statistical and programming skills, explore the field, and connect with the pharmaceutical and clinical-research community.  
+[See the PharmaSUG students page](https://pharmasug.org/conferences/pharmasug-2026-us/students/){.colored-link}
+
+---
 
 **🏆 Lester R. Curtin Award — American Statistical Association (2025)**  
-Emmanuel Kubuafor received the ASA’s *Lester R. Curtin Award* at the 2025 Joint Statistical Meetings in Nashville.  
-The award supports promising early-career health statisticians in attending professional conferences and advancing methodological skills.  
+Emmanuel Kubuafor, together with Dennis Baidoo, received the ASA's *Lester R. Curtin Award* at the 2025 Joint Statistical Meetings in Nashville, Tennessee. Established in memory of CDC health statistician Lester "Randy" Curtin, the award supports promising early-career health statisticians in attending professional conferences and advancing their methodological skills. The recognition was presented during ASA President Prof. Ji-Hyun Lee's award ceremony.  
 [Read the UNM announcement](https://math.unm.edu/news-events/news/dennis-baidoo-emmanuel-kubuafor-receive-%C2%A0lester-r-curtin-award){.colored-link} · [About the award](https://www.amstat.org/your-career/awards/lester-r-curtin-award){.colored-link}
 
 ---
 
-
-**🎓 Campersand: Math Summer Camp at UNM (2024)**  
-As a counselor at UNM’s annual *Campersand Math Camp*, Emmanuel helped mentor over 100 middle- and high-school students in math, logic, and computing.  
-The program fosters mathematical curiosity and teamwork through engaging, project-based learning.  
-[Read more](https://math.unm.edu/news-events/news/campersand-math-summer-camp-smlc-0){.colored-link}
-
 **🤝 ASA Diversity Mentoring Program (2025)**  
-Featured in *Amstat News*’s “Stats from the Road” series, Emmanuel shared his experience with the ASA Diversity Mentoring Program (DMP), which connects early-career statisticians from underrepresented backgrounds with professional mentors.  
-He described the program as “an eye-opener… very informative and resourceful.”  
+Featured in *Amstat News*'s "Stats from the Road" series, Emmanuel shared his experience with the ASA Diversity Mentoring Program (DMP), which connects early-career statisticians from underrepresented backgrounds with professional mentors. He described the program as an eye-opening and resourceful experience.  
 [Read the article](https://magazine.amstat.org/blog/2025/05/01/stats-from-the-road-dmp/){.colored-link}
 
 ---
 
-<small>*Updated November 2025*</small>
+**🧮 Campersand: Math Summer Camp at UNM (2024)**  
+As a counselor at UNM's annual *Campersand Math Camp*, Emmanuel helped mentor middle- and high-school students in math, logic, and computing. The program fosters mathematical curiosity and teamwork through engaging, project-based learning.  
+[Read more](https://math.unm.edu/news-events/news/campersand-math-summer-camp-smlc-0){.colored-link}
+
+---
+
+<small>*Updated June 2026*</small>

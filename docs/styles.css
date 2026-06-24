@@ -280,3 +280,18 @@ body.quarto-light .navbar .dropdown-toggle::after {
   color: var(--uw-metallic-gold);
   max-width: 320px;
 }
+.project-grid {
+  display: grid !important;
+  grid-template-columns: repeat(2, 1fr) !important;
+  gap: 2rem;
+  padding: 1rem 0;
+}
+@media (max-width: 600px) {
+  .project-grid { grid-template-columns: 1fr !important; }
+}
+.about-image img,
+.about-entity img,
+.quarto-about-trestles .about-image img {
+  image-rendering: auto;
+  transform: translateZ(0);
+}

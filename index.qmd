@@ -1,14 +1,14 @@
 ---
 title: "Emmanuel Kubuafor, M.S, [Gstat](https://ww2.amstat.org/accreditation/roster.cfm)"
 description-meta: "Academic website for Emmanuel Kubuafor, specializing in statistical modeling and data science."
-image: "files/images/pic4.jpg"
+image: "files/images/pic4.png"
 page-navigation: true
 toc: false
 page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 40%
+  image-width: 50%
   links:
     - icon: envelope
       text: E-mail
@@ -26,7 +26,7 @@ about:
       href: https://www.researchgate.net/profile/Emmanuel-Kubuafor-2?ev=hdr_xprf
       target: _blank
     - text: "{{< ai orcid >}} ORCID"
-      href: https://orcid.org/my-orcid?orcid=0009-0000-7315-4041
+      href: https://orcid.org/0009-0000-7315-4041
       target: _blank
 ---
 

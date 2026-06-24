@@ -5,115 +5,100 @@ title-block-banner: false
 ---
 
 ## College Algebra
-
-::: {.grid}
-
+::::: grid
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/algebra.jpg)
 :::
-
 ::: {.g-col-12 .g-col-md-10}
-**University of New Mexico, Department of Mathematics and Statistics**  
-**Instructor**  
-[Summer 2025](#)
+**University of New Mexico, Department of Mathematics and Statistics**\
+**Instructor**\
+[Summer 2026](#)\ [Summer 2025](#)
 
 A foundational course in algebraic reasoning, equations, and functions. Delivered in-person to a diverse student population.
 :::
+:::::
 
+## Survey of Mathematics
+::::: grid
+::: {.g-col-12 .g-col-md-2}
+![](files/images/survey.jpg)
 :::
+::: {.g-col-12 .g-col-md-10}
+**University of New Mexico, Department of Mathematics and Statistics**\
+**Instructor**\
+[Spring 2026](#)
 
+A general-education mathematics course exploring practical, real-world topics such as logic, probability, statistics, and financial mathematics for non-STEM majors.
+:::
+:::::
 
 ## Introduction to Statistics
-
-::: {.grid}
-
+::::: grid
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/stat.jpg)
 :::
-
 ::: {.g-col-12 .g-col-md-10}
-**University of New Mexico, Department of Mathematics and Statistics**  
-**Instructor**  
-[Spring 2025](#)  
+**University of New Mexico, Department of Mathematics and Statistics**\
+**Instructor**\
+[Spring 2025](#)\
 [Fall 2025](#)
 
 An undergraduate course covering data collection, exploratory data analysis, probability, and statistical inference using real-world applications.
 :::
-
-:::
-
+:::::
 
 ## Advanced Data Analysis I
-
-::: {.grid}
-
+::::: grid
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/ada1.jpg)
 :::
-
 ::: {.g-col-12 .g-col-md-10}
-**University of New Mexico, Department of Mathematics and Statistics**  
-**Teaching Assistant**  
+**University of New Mexico, Department of Mathematics and Statistics**\
+**Teaching Assistant**\
 [Fall 2024](#)
 
 Graduate-level course introducing modern methods of data analysis including regression, resampling, and diagnostics.
 :::
-
-:::
-
+:::::
 
 ## Calculus I
-
-::: {.grid}
-
+::::: grid
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/calc.jpg)
 :::
-
 ::: {.g-col-12 .g-col-md-10}
-**University of New Mexico, Department of Mathematics and Statistics**  
-**Teaching Assistant**  
+**University of New Mexico, Department of Mathematics and Statistics**\
+**Teaching Assistant**\
 [Spring 2024](#)
 
 Topics include limits, derivatives, applications, and an introduction to integrals.
 :::
-
-:::
-
+:::::
 
 ## Introduction to Biostatistics
-
-::: {.grid}
-
+::::: grid
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/biostat.jpg)
 :::
-
 ::: {.g-col-12 .g-col-md-10}
-**University of Ghana, Department of Actuarial Science and Statistics**  
-**Teaching Assistant**  
+**University of Ghana, Department of Actuarial Science and Statistics**\
+**Teaching Assistant**\
 [Summer 2023](#)
 
-Covered study design, categorical data anlysis,hypothesis testing and survival analysis.
+Covered study design, categorical data analysis, hypothesis testing, and survival analysis.
 :::
-
-:::
-
+:::::
 
 ## Advanced Linear Regression
-
-::: {.grid}
-
+::::: grid
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/regression.jpg)
 :::
-
 ::: {.g-col-12 .g-col-md-10}
-**University of Ghana, Department of Actuarial Science and Statistics**  
-**Teaching Assistant**  
+**University of Ghana, Department of Actuarial Science and Statistics**\
+**Teaching Assistant**\
 [Spring 2023](#)
 
 Focused on theoretical and applied aspects of multiple regression, model diagnostics, and interaction effects.
 :::
-
-:::
+:::::

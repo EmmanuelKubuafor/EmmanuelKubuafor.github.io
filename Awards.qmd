@@ -8,63 +8,65 @@ css: custom.css
 
 {{< include /files/includes/_academic.qmd >}}
 
-## 2025
-- **Lester R. Curtin Award** — *American Statistical Association*  
-  Recognized for ML-powered anomaly detection in EHR streams for early outbreak response.
+## 2026
 
-- **JSM Early Career Travel Award** — *American Statistical Association*  
-  Support to attend the 2025 Joint Statistical Meetings in Nashville, TN.
-
-- **SSPA Conference Grant** — *ASA Section for Statistical Programmers & Analysts*  
-  
-  Travel grant for JSM 2025.
-
-- **Symposium on Data Science and Statistics Travel Award** — *American Statistical Association*   
-  Travel grant for SDSS 2025.
-
-- **Diversity Mentorship Program Award** — *American Statistical Association*  
-  For sustained mentoring of underrepresented students in statistics.
-
+- **Outstanding Graduate Student in Teaching** — *University of New Mexico*  
+  Departmental recognition for excellence in undergraduate instruction.
+- **Teaching Statistical Thinking with GAISE Workshop Travel Award** — *NSF-Funded EAPOST Program*  
+  Support to attend a workshop on evidence-based statistics pedagogy.
+- **NISS Writing Workshop for Junior Researchers Travel Award** — *National Institute of Statistical Sciences*  
+  Selected for a national scientific-writing workshop for early-career researchers.
+- **Statistics in Pharmaceuticals (SIP) Travel Scholarship** — *University of Connecticut*  
+  Travel support to attend and present at the SIP conference.
+- **PharmaSUG Student Scholarship** — *Pharmaceutical Industry SAS® Users Group*  
+  Student award supporting participation in the PharmaSUG conference.
 - **Student Research Grant** — *University of New Mexico*  
-  Funded participation in the ENAR Spring Meeting 2025.
+  Funded research dissemination at national meetings.
+- **SSPA Conference Grant** — *ASA Section for Statistical Programmers & Analysts*  
+  Travel grant for the Joint Statistical Meetings.
+- **JSM Early Career Travel Award** — *American Statistical Association*  
+  Support to attend and present at the 2026 Joint Statistical Meetings in Boston, MA.
+- **African American Conference Assistance Award** — *University of New Mexico*  
+  Travel support to attend conferences.
 
+## 2025
+
+- **Lester R. Curtin Award** — *American Statistical Association*  
+  Awarded to a promising student in statistics within the government and public-health community.
+- **JSM Early Career Travel Award** — *American Statistical Association*  
+  Support to attend the 2025 Joint Statistical Meetings.
+- **SSPA Conference Grant** — *ASA Section for Statistical Programmers & Analysts*  
+  Travel grant for JSM 2025.
+- **Symposium on Data Science and Statistics Travel Award** — *American Statistical Association*  
+  Travel grant for SDSS 2025.
+- **Diversity Mentorship Program Award** — *American Statistical Association*  
+  Funded participation in the ASA Diversity Mentorship Program
+- **Student Research Grant** — *University of New Mexico*  
+  Support for original research and its dissemination.
 - **Professional Development Grant** — *University of New Mexico*  
   Supported participation in national statistical training workshops.
-
 - **Graduate Community Mentoring Scholarship** — *University of New Mexico*  
-  Recognized for exceptional peer mentoring and community engagement.
-
-- **African American Conference Assistance Award** — *University of New Mexico*  
-  Provided travel support to attend diversity and inclusion conferences.
-
+  Awarded for academic promise and engagement in UNM's graduate mentoring community
 - **South Central Topology IV Travel Award** — *Texas A&M University*  
-  Recognized for academic engagement and excellence in mathematical sciences.
-
+  Travel support to participate in the South Central Topology conference.
 - **Golden Key International Honour Society** — *University of New Mexico*  
-  Recognized for placement among the top 15% of UNM graduates for academic excellence and leadership.
-
+  Recognized for placement among the top 15% of UNM graduates for academic excellence.
 
 ## 2024
+
 - **Graduate Scholarship of Teaching and Learning** — *University of New Mexico*  
   Recognized for excellence in pedagogical research and evidence-based teaching.
-
 - **Project for New Mexico Graduates of Color Scholarship** — *University of New Mexico*  
-  Honored for transformative mentorship, peer development, and graduate preparation initiatives.
-
+  Honored for mentorship, peer development, and graduate preparation initiatives.
 
 ## 2023
+
 - **Best Teaching Assistant Award** — *Department of Statistics & Actuarial Science, University of Ghana*  
   Selected as top-performing TA among 20+ departmental teaching assistants.
 
-
 ## 2022
+
 - **Honor of Excellence and Dedication** — *University of Ghana Actuarial and Statistics Society*  
-  Recognized for two years of transformative leadership as Academic Committee President.
-
+  Recognized for two years of leadership as Academic Committee President.
 - **Most Hardworking Committee Executive** — *University of Ghana Actuarial and Statistics Society*  
-  For pioneering the society’s peer-tutoring and professional development initiatives.
-
-
-## 2021
-- **Dean’s Honor Award for Academic Excellence** — *University of Ghana, College of Basic and Applied Sciences*  
-  Awarded for outstanding scholarly achievement (top 3%).
+  For pioneering the society's peer-tutoring and professional development initiatives.
